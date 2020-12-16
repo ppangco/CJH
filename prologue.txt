@@ -1,11 +1,15 @@
 머나먼 옛날
 Narration: In the distant past,
+
 세상은 어지러웠다.
 Narration: the world was dizzy.
+
 법도 정의도 존재하지 않았고,
 Narration: There was neither law nor justice,
+
 힘이 없는 자는 도태되었다.
 Narration: those without strength were left behind.
+
 그리고 그런 세상을 바꾸고자 하는 자가 있었다.
 Narration: And there was someone who wanted to change that world.
 
@@ -29,6 +33,7 @@ Narration: However, it was not easy to establish order
 
 다른 세 곳과 다르게 하늘, 즉 천계는 다양한 지적 생명체가 살고 있어,
 Narration: Unlike the other three places, the sky, or the celestial world, is home to various intelligent life forms,
+
 그 수만큼, 원하는 것도 생각도 모두 달랐다.
 Narration: and the number, desires and thoughts were all different.
 
@@ -40,6 +45,7 @@ Narration: and war broke out due to disagreement.
 
 아무리 옥황상제라 해도 모은일을 혼자 해결할 수는 없는 법.
 Narration: No matter how much the Jade Emperor is, you cannot solve the gatherings alone.
+
 대책을 생각해야 했다.
 Narration: He had to think about countermeasures.
 
@@ -48,10 +54,13 @@ Narration: He gathered those with talent.
 
 12지지를 나타내는 12지신과
 Narration: 12 earthly spirits representing 12 support and
+
 장수를 뜻하는 십장생
 Narration: the Ten Symbols of Longevity meaning longevity
+
 5방위를 지키는 오방신
 Narration: 5 Obangshin guards the defense
+
 옥황상제는 이들을 모아
 Narration: The Jade Emporer brought them together
 
@@ -69,6 +78,7 @@ Narration: it still inherits the will of the first Sangje.
 
 초대 상제님께서는 천지해를 만드셨고,
 Narration: The first Sangje made Cheonjihae and
+
 그 천지해를 이끄는 우두머리는 오방신의 황룡, 즉 중앙황제신장이에요
 Narration: the head of Cheonjihae is the yellow dragon of the Obangshin, that is, the central emperor
 
