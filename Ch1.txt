@@ -74,7 +74,7 @@ Info: Yeouno
 Lyun: Oh? You're by yourself? What about Yeoulo?
 
 형은 집에서 자고 있어!
-Yeouno: My brother is sleeping at home!
+Yeouno: My hyung is sleeping at home!
 
 그보다..!
 Yeouno: By the way..!
@@ -134,7 +134,7 @@ Lyun: Excluding the Obangsin who are now on a business trip to Cloud Village the
 Hajin: Is Cheonjihae now only those who do not fit into the group action
 
 언니...!
-Lyun: Sis...!
+Lyun: Unnie...!
 
 공식적인 자리에서는 호칭을 바꿔
 Hajin: Change your title in an official seat
