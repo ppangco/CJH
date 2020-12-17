@@ -81,13 +81,13 @@ Yeouno: Ah, he's the Turtle leader, maybe he's shy
 Yeouno <knows everyone
 
 그나마 있던 한 명도 가버린 거야??
-Haneul: Even the one who didn't exist went away??
+Haneul: Even the quiet one left??
 
 아 정말.... 일이 꼬여도 유분수지
-Lyun?: Ah really.... having responsibility even if things didn't work out as intended (?)
+Lyun: Ah for real.... even if it didn't go well, we're still responsible
 
 완전 콩가루 집단이야
-Lyun: It's a totally shattered group
+Lyun: It's a completely shattered group
 
 오호- 그래서 지금 느긋하게 독서 중이시군?
 Haneul: Oho- so you're taking it easy and reading?
@@ -96,10 +96,10 @@ Haneul: Oho- so you're taking it easy and reading?
 Lyun: I was waiting at home....but...
 
 넌 집으로 돌아가 있어
-Hajin: You are going home
+Hajin: You should go home
 
 난 좀 더 알아볼 게 있으니
-Hajin: I have something more I want to know (?)
+Hajin: I have more things to look into
 
 언니, 잠시만요!
 Lyun: Unnie, wait!
@@ -120,10 +120,10 @@ Lyun: I came here because I didn't want to sit at home and think
 Haneul: What are you looking for?
 
 과거의 사건자료
-Lyun: Past event data
+Lyun: Data on past events
 
 아까 분명 방화범을 잡는다고했지? 근데 왠 사건자료?
-Haneul: You said you're catching an arsonist right? But what about the case data?
+Haneul: You said you're catching an arsonist right? But what about the case information?
 
 그 영감님....아니 원로님은 범인이 여우라고 확신하고 계시니까
 Lyun: That old man....no, the elder, is convinced that the culprit is a fox
@@ -135,7 +135,7 @@ Lyun: Basically the fox clan was inconspicuous and was pretty friendly
 Lyun: If he said the culprit was of the goblin clan, it might have passed without a doubt
 
 둘 다 불을 사용하니까?
-Haneul: They both use fire? (Don't they both use fire?)?
+Haneul: Don't they both use fire?
 
 `도깨비불 여우불...`
 Haneul: Goblin fire fox fire...
@@ -144,7 +144,7 @@ Haneul: Goblin fire fox fire...
 Lyun: Mhm
 
 게다가 도깨비 일족....특히 밤도깨비는 호전적이고 축제도 좋아하니까
-Lyun: Besides the goblin clan...especially the night goblins are aggressive and they like festivities (especially at night?)
+Lyun: Besides the goblin clan...especially the night-goblins are aggressive and they like festivities
 
 그럼 원로님은 거짓말을 하셨다는 건가?
 Haneul: So you mean the elder lied?
