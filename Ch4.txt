@@ -22,7 +22,7 @@ Info: Yeoulo
 Lyun: Why you ask.....
 
 우리 지금 잠복 중이지?
-Lyun: Are we undercover now? (Aren't?)
+Lyun: Aren't we undercover now?
 
 응
 Yeoulo: Mhm
@@ -43,7 +43,7 @@ Yeoulo: If Lyun asks that way...
 Lyun: Yes please, and come to the meeting of Cheonjihae too
 
 좋아
-Yeoulo: Good (alright?)
+Yeoulo: Alright
 
 웬일로 흔쾌히 응해주...
 Lyun: For some reason willingly respond... (?)
@@ -79,7 +79,7 @@ Yeoulo: ...but
 Yeoulo: after all, I think hiding until the culprit appears is a little...ignorant
 
 그래, 역시 좀 그런가?
-Lyun: Okay(Yeah?), is it a bit like that?
+Lyun: Yeah, is it a bit like that?
 
 `벌써 그 얘기 두번째 들었다만`
 Lyun: I've already heard that for the second time
@@ -109,10 +109,10 @@ Yeoulo: why don't we listen to music?
 Lyun: Yeoulo.....
 
 너 자꾸 일부러 그러는 거지
-Lyun: You keep doing it(this?) on purpose
+Lyun: You keep doing this on purpose
 
 `잠복의 의미 몰라?`
-Lyun: You don't know(Do you not know?) the meaning of undercover?
+Lyun: You don't know what undercover means? (Do you not know the meaning of undercover?)
 
 `아야야야`
 Yeoulo: Ayayaya
@@ -124,7 +124,7 @@ Yeoulo: Lyun?
 Yeoulo: Why that... mmn
 
 원초적인 방법이니
-Lyun: It's the original method
+Lyun: It's a basic method
 
 막 나간다느니 해도 말이야
 Lyun: even if it's just going out      |??
