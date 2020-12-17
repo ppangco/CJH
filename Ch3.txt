@@ -2,227 +2,227 @@
 Yeoubi Ep 3
 
 [장서관]
-Library
+Place: Library
 
 출근 첫날부터 한가하신데?
-Are you free from the first day of work?
+Haneul: Are you free from the first day of work?
 
 우리 중앙황제신장남은
-Our central emperor
+Haneul: Our central emperor
 
 ---
 하늘
 -토끼일족
 ---
-Haneul
+Info: Haneul
 -Rabbit clan
 
 수습이야
-I'm in training
+Lyun: I'm in training
 
 기분나빠보이네? 첫 출근 어땠어?
-You look in a bad mood? How was your first day at work?
+Haneul: You look to be in a bad mood? How was your first day at work?
 
 최악이었어
-It was the worst
+Lyun: It was the worst
 
 뭐?
-What?
+Haneul: What?
 
 아옼ㅋㅋㅋㅋㅋㅋ 정말???
-Ahahahaha really???
+Haneul: Ahahahaha really???
 
 너무 웃는다
-Laughing so much
+Lyun: Laughing so much (You're laughing too much?)
 
 아 하지만ㅋㅋㅋㅋㅋㅋ 솔직히 웃기잖앜ㅋㅋㅋㅋㅋㅋ 천지해가 5명 밖에 없었다니
-Ah but hahaha honestly it's funnyahahaha there were only 5 people in Cheonjihae
+Haneul: Ah but hahaha honestly it's funnyahahaha there were only 5 people in Cheonjihae
 
 웃지 마 너네 토끼 일족 수장님도 결석하셨어
-Don't laugh, the head of your rabbit clan was also absent
+Lyun: Don't laugh, the head of your rabbit clan was also absent
 
 그건 내 탓이 아니지
-It's not my fault
+Haneul: It's not my fault
 
 게다가 그나마 모인 5명 중에서도....
-Besides, out of the 5 people who gathered....
+Lyun: Besides, out of the 5 people who gathered....
 
 한 명은 돌아가 버렸고,
-one went back,
+Lyun: one went back,
 
 또 한 명은....
-and another....
+Lyun: and another....
 
 저희 이제 어쩌죠?
-What should we do now?
+Lyun: What should we do now?
 
 그래도 이 4명으로 어떻게든 해야....
-Still I have to do something with these 4 people...
+Lyun: Still I have to do something with these 4 people...
 
 ...저...
-...over there...
+Lyun: ...over there...
 
 수장님?
-Leader?
+Lyun: Leader?
 
 수장님은 어떻게 생각하시는지...
-What do you think...
+Lyun: What do you think...
 
 억
-Uh-
+Lyun: Uh-
 
 아...!
-Ah...!
+Lyun: Ah...!
 
 아, 갠 거북 수장이야 수줍음쟁이지 아마
-Ah, he's the Turtle leader, maybe he's shy
+Yeouno: Ah, he's the Turtle leader, maybe he's shy
 
 <마당발
-<knows everyone
+Yeouno <knows everyone
 
 그나마 있던 한 명도 가버린 거야??
-Even the one who didn't exist went away??
+Haneul: Even the one who didn't exist went away??
 
 아 정말.... 일이 꼬여도 유분수지
-Ah really.... you still have responsibility even if things are twisted
+Lyun?: Ah really.... you still have responsibility even if things are twisted (?)
 
 완전 콩가루 집단이야
-It's a totally shattered group
+Lyun: It's a totally shattered group
 
 오호- 그래서 지금 느긋하게 독서 중이시군?
-Oho- so you're taking it easy and reading?
+Haneul: Oho- so you're taking it easy and reading?
 
 자택대기....였는데...
-I was waiting at home....but...
+Lyun: I was waiting at home....but...
 
 넌 집으로 돌아가 있어
-You are going home
+Hajin: You are going home
 
 난 좀 더 알아볼 게 있으니
-I have something more I want to know
+Hajin: I have something more I want to know (?)
 
 언니, 잠시만요!
-Unnie, wait!
+Lyun: Unnie, wait!
 
 저도 도울게요!
-I'll help too!
+Lyun: I'll help too!
 
 언니!
-Unnie!
+Lyun: Unnie!
 
 어떻게 맘편하게 자택대기를 하겠어
-How can I wait comfortably at home
+Lyun: How can I wait comfortably at home
 
 집에 앉아서 생각해보니 이건 아니다 싶어서 여기 온거야
-I came here because I didn't want to sit at home and think
+Lyun: I came here because I didn't want to sit at home and think
 
 뭐 찾아보러 온건데?
-What are you looking for?
+Haneul: What are you looking for?
 
 과거의 사건자료
-Past event data
+Lyun: Past event data
 
 아까 분명 방화범을 잡는다고했지? 근데 왠 사건자료?
-You said you're catching an arsonist right? But what about the case data?
+Haneul: You said you're catching an arsonist right? But what about the case data?
 
 그 영감님....아니 원로님은 범인이 여우라고 확신하고 계시니까
-That old man....no, the elder, is convinced that the culprit is a fox
+Lyun: That old man....no, the elder, is convinced that the culprit is a fox
 
 원래 여우 일족은 모습을 잘 드러내지 않는 데다가 꽤 우호적이야
-Basically the fox clan was inconspicuous and was pretty friendly
+Lyun: Basically the fox clan was inconspicuous and was pretty friendly
 
 범인이 도깨비 일족이라 하셨으면 별 의심 없이 지나갔을지도 보르지
-If he said the culprit was of the goblin clan, it might have passed without a doubt
+Lyun: If he said the culprit was of the goblin clan, it might have passed without a doubt
 
 둘 다 불을 사용하니까?
-Do they both use fire?
+Haneul: Do they both use fire? (Don't they both use fire?)?
 
 `도깨비불 여우불...`
-Goblin fire fox fire...
+Haneul: Goblin fire fox fire...
 
 응
-Mhm
+Lyun: Mhm
 
 게다가 도깨비 일족....특히 밤도깨비는 호전적이고 축제도 좋아하니까
-Besides the goblin clan...especially the night goblins are aggressive and they like festivities
+Lyun: Besides the goblin clan...especially the night goblins are aggressive and they like festivities (especially at night?)
 
 그럼 원로님은 거짓말을 하셨다는 건가?
-So you mean the elder lied?
+Haneul: So you mean the elder lied?
 
 여우에게 죄를 덮어씌우려고?
-To condem the fox?
+Haneul: To condem the fox?
 
 ..이건 내 감인데 거짓말은 아닐 거야
-..This is my sense but it isn't a lie
+Lyun: ..This is my sense but it isn't a lie
 
 단지,
-Just,
+Lyun: Just,
 
 뭔가를 숨기고 애기해주지 않은듯한 기분이 들어서
-I feel like he was hiding something and not telling us
+Lyun: I feel like he was hiding something and not telling us
 
 숨겨?
-Hiding?
+Haneul: Hiding?
 
 원로님과 있던 몸종의 태도
-The attitude of the servant with the elder
+Lyun: The attitude of the servant with the elder
 
 원로님은 그 아이가 범인을 목격했다 했지만 내가 보기엔 아냐
-The elder said she saw the culprit but that's not how I see it
+Lyun: The elder said she saw the culprit but that's not how I see it
 
 ""내 몸종이 봤다고 하더군""
-""My maid said she saw it""
+Elder Munhwon: ""My maid said she saw it""
 
 ""예에, 아주 머리가 긴 암 여우였지요""
-""Yes, it was a vixen with very long hair""
+Maid: ""Yes, it was a vixen with very long hair""
 
 ""이런 멍청한 놈!! 아깐 머리를 높이 묶었다 하지 않았느냐!!""
-""Such an idiot!! Didn't you say she tied her hair up before!!""
+Elder Munhwon: ""Such an idiot!! Didn't you say she tied her hair up before!!""
 
 ""아이고 어르신 제가 말실수를 했습니다""
-""Gosh elder I made a mistake""
+Maid: ""Gosh elder I made a mistake""
 
 그 아인, 단지 주인의 말에 장단을 맞춘 것 뿐
-That kid, is just trying to match the master's words
+Lyun: That kid, is just trying to match the master's words
 
 `어색하기 짝이 없었지만`
-It was awkward
+Lyun: It was awkward
 
 그리고 아무리 시력이 좋다 해도 그 화재 현장에서 사물의 색을 완벽히 구분하는 건 불가능해
-And no matter how good your eyesight is, it's impossible to completely distinguish the colors of objects at the scene of a fire
+Lyun: And no matter how good your eyesight is, it's impossible to completely distinguish the colors of objects at the scene of a fire
 
 `특히나 열에 약한 개구리 일족이라면 봤다 해도, 먼 발치에서나 봤을테고`
-Especially since the frog clan is weak to heat, even if she saw it, she would have seen it from afar
+Lyun: Especially since the frog clan is weak to heat, even if she saw it, she would have seen it from afar
 
 뭔가 구리구리한 냄새가 나는데?
-Something smells gross?
+Haneul: Something smells gross? (Something smells fishy?) (?)
 
 하진님께는 말했어?
-Did you talk to Hajin?
+Haneul: Did you talk to Hajin?
 
 안 했어, 안 했지만....
-I didn't, I didn't but....
+Lyun: I didn't, I didn't but....
 
 언니도 뭔가 미심쩍었으니 조사하러 간 거겠지
-my sister was also suspicious of something, so she probably went to investigate
+Lyun: my sister(unnie/my unnie?) was also suspicious of something, so she probably went to investigate
 
 그래서 우리 수습님은 어쩌시려구?
-So what about our apprentice?
+Haneul: So what about our apprentice?
 
 아마 범인은 현장에 다시 돌아올 거라고 생각해
-I think the culprit will come back to the scene
+Lyun: I think the culprit will come back to the scene
 
 피해도 없었고 화재진압도 빨랐다면 원하는 것을 이루지 못 했을 확률이 높으니까
-If there was no damage and the fire was extinguished quickly there is a high chance that they could not achieve what they wanted
+Lyun: If there was no damage and the fire was extinguished quickly there is a high chance that they could not achieve what they wanted
 
 그러니까, 오늘 밤부터 범인이 다시 나타날 때까지 기다릴 거야
-So, starting tonight, I'll wait for the culprit to appear again
+Lyun: So, starting tonight, I'll wait for the culprit to appear again
 
 너무 원초적인 방법인데...
-It's a very basic method...
+Haneul: It's a very basic method...
 
 같이 보초설래?
-Would you like to guard together?
+Lyun: Would you like to guard together?
 
 시렁
-I'd hate it
+Haneul: I'd hate it
