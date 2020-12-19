@@ -4,7 +4,7 @@ Narration: In the distant past,
 세상은 어지러웠다.
 Narration: the world was dizzy.
 
-법도 정의도 존재하지 않았고,
+법도 정의도 존재하지 않았고, 
 Narration: There was neither law nor justice,
 
 힘이 없는 자는 도태되었다.
@@ -44,7 +44,7 @@ Narration: For that reason, there were frequent riots,
 Narration: and war broke out due to disagreement.
 
 아무리 옥황상제라 해도 모은일을 혼자 해결할 수는 없는 법.
-Narration: No matter how much the Jade Emperor is, you cannot solve the gatherings alone.
+Narration: No matter how great the Jade Emperor is, he couldn't solve the gatherings alone.
 
 대책을 생각해야 했다.
 Narration: He had to think about countermeasures.
@@ -56,10 +56,10 @@ Narration: He gathered those with talent.
 Narration: 12 earthly spirits representing 12 support and
 
 장수를 뜻하는 십장생
-Narration: the Ten Symbols of Longevity meaning longevity
+Narration: the Ten Symbols of Longevity meaning endurance 
 
 5방위를 지키는 오방신
-Narration: 5 Obangshin guards the defense
+Narration: Guardians of the 5 directions, the Obangsin
 
 옥황상제는 이들을 모아
 Narration: The Jade Emporer brought them together
@@ -74,7 +74,7 @@ Narration: Cheonjihae helped the Jade Emperor Sangje and worked hard for Heaven 
 Narration: even if generations change over time
 
 여전히 초대 상제의 뜻을 이어받는 것이다.
-Narration: it still inherits the will of the first Sangje.
+Narration: they still inherit the will of the first Sangje.
 
 초대 상제님께서는 천지해를 만드셨고,
 Narration: The first Sangje made Cheonjihae and
@@ -92,7 +92,7 @@ Sihwa: Can you do it well? Baby yellow dragon
 Lyun: Yeah! Sihwa
 
 그래요
-Sihwa: Okay
+Sihwa: Alright
 
 약속한 거예요?
 Sihwa: It's a promise?
