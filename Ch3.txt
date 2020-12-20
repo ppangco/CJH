@@ -5,7 +5,7 @@ Yeoubi Ep 3
 Place: Library
 
 출근 첫날부터 한가하신데?
-Haneul: Are you free from the first day of work?
+Haneul: Are you free from your first day of work?
 
 우리 중앙황제신장남은
 Haneul: Our central emperor
@@ -21,7 +21,7 @@ Info: Haneul
 Lyun: I'm in training
 
 기분나빠보이네? 첫 출근 어땠어?
-Haneul: You look to be in a bad mood? How was your first day at work?
+Haneul: You look in a bad mood? How was your first day at work?
 
 최악이었어
 Lyun: It was the worst
@@ -57,7 +57,7 @@ Lyun: and another....
 Lyun: What should we do now?
 
 그래도 이 4명으로 어떻게든 해야....
-Lyun: Still I have to do something with these 4 people...
+Lyun: I still have to do something with these 4 people...
 
 ...저...
 Lyun: ...over there...
@@ -129,7 +129,7 @@ Haneul: You said you're catching an arsonist right? But what about the case info
 Lyun: That old man....no, the elder, is convinced that the culprit is a fox
 
 원래 여우 일족은 모습을 잘 드러내지 않는 데다가 꽤 우호적이야
-Lyun: Basically the fox clan was inconspicuous and was pretty friendly
+Lyun: Basically the fox clan is inconspicuous and pretty friendly
 
 범인이 도깨비 일족이라 하셨으면 별 의심 없이 지나갔을지도 보르지
 Lyun: If he said the culprit was of the goblin clan, it might have passed without a doubt
@@ -189,7 +189,7 @@ Lyun: That kid, is just trying to match the master's words
 Lyun: It was awkward
 
 그리고 아무리 시력이 좋다 해도 그 화재 현장에서 사물의 색을 완벽히 구분하는 건 불가능해
-Lyun: And no matter how good your eyesight is, it's impossible to completely distinguish the colors of objects at the scene of a fire
+Lyun: And no matter how good your eyesight is, it's impossible to completely distinguish the colors of things at the scene of a fire
 
 `특히나 열에 약한 개구리 일족이라면 봤다 해도, 먼 발치에서나 봤을테고`
 Lyun: Especially since the frog clan is weak to heat, even if she saw it, she would have seen it from afar

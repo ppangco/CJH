@@ -107,7 +107,7 @@ Info: Lyun
 -Obangsin yellow dragon in training [Central Emperor]
 
 아니? 이 인원이 끝일걸?
-Yeouno: No? This number of people will be all?
+Yeouno: No? This many people will be all?
 
 ?????뭐??
 Lyun: ?????What??
@@ -152,10 +152,10 @@ Info: Hajin
 Lyun: Wait! Haven't worked in a group together?! For sure the Cheonjihae created by the first Jade Emperor
 
 모려운 힘을 모아 천계의 어려운 일을 해결했다고
-Lyun: solved the difficult tasks of the heavenly world with their power together
+Lyun: solved the difficult tasks of the celestial world with their power together
 
 초대 상제님의 이념에 감명받으셨나 보네요
-Mayoo: So you must have been impressed by the ideology of the first Sangje
+Mayoo: You must have been impressed by the ideology of the first Sangje
 
 당연하지 않습니까! 제가 천지해에 얼마나 기대를 했는데요!
 Lyun: Isn't it natural! How much I looked forward to being in Cheonjihae!
@@ -164,7 +164,7 @@ Lyun: Isn't it natural! How much I looked forward to being in Cheonjihae!
 Lyun: Yeouno!! You and Yeoulo always said Cheonjihae is a great place!
 
 이 정도면 굉장하지 않아? 소집 시에 반도 안 모이는 굉장한 조직!
-Lyun: Isn't this great? An amazing organization that doesn't come together when called!
+Yeouno: Isn't it great enough? An amazing organization that doesn't come together when called!
 
 솔직히....
 Yeouno: To be honest....
@@ -179,7 +179,7 @@ Yeouno: Honestly, this is a lot of people
 Elder Munhwon: Have you all gathered?
 
 이른 새벽부터 수고하는군
-Elder Munhwon: You've worked hard since early dawn
+Elder Munhwon: Thank you for your trouble since early dawn
 
 천지해
 Elder Munhwon: Cheonjihae

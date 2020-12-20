@@ -25,13 +25,13 @@ Mayoo: Here,
 Mayoo: there is another person who seems to be impressed by the ideology of the first Sangje
 
 이보게 자네는 어딜 가는 겐가!
-Elder Munhwon: Look where are you going!
+Elder Munhwon: Hey where are you going!
 
 집에서 약재를 손질하다 나왔거든요
 Mayoo: I came out while preparing medicinal herbs
 
 천지해가 다 모이는 걸 기다리려면 하루 이틀은커녕 몇백 년 있어도 부족할 테고,
-Mayoo: Waiting for all of Cheonjihae to gather together will take more than a few hundred years, rather than a day or two,
+Mayoo: Waiting for all of Cheonjihae to gather together will take more than a few hundred years, rather than a day or two
 
 시간을 너무 지체하면 약재를 못 쓰게 될 테니
 Mayoo: if you take too much time I won't be able to use the medicinal herbs
@@ -148,10 +148,10 @@ Lyun: What are you doing
 Elder Muhwon: A blue fox
 
 푸른 털을 가진 여우를 잡아 내게 대령하게
-Elder Muhwon: Catch me a fox with blue fur and wait for my orders
+Elder Muhwon: Catch me a blue-haired fox and wait for my orders
 
 푸른 털을 가진 여우?
-Hajin: A fox with blue fur?
+Hajin: A fox with blue hair?
 
 ...그렇다면....
 Hajin: ...if so....

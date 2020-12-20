@@ -50,7 +50,7 @@ Yeoulo: Don't worry too much
 Yeoulo: Inflexible,
 
 고지식하여,
-Yeoulo: knowledgeable,
+Yeoulo: stickler for the rules,
 
 다혈질이지만
 Yeoulo: and hot-tempered, but
@@ -116,7 +116,7 @@ Hajin: The head of the Dragon Zodiac of Cheonjihae has come to see the leader of
 Lyun: Unnie...is that what it is?
 
 여기 여우들 눈알이 빠질 듯이 우릴 노려보는데요
-Lyun?: The foxes here are staring at us as if they've been waiting impatiently for a long time
+Lyun: The foxes here are staring at us as if they've been waiting impatiently for a long time
 
 손님에게 무례는 삼가거라
 Honglo: Please refrain from being rude to guests
@@ -134,7 +134,7 @@ Hajin: Do you know about the blue-haired fox?
 Honglo: I can't believe the noble Cheonjihae
 
 고작 방화범 따위에 움직이다니요
-Honglo: is just doing something like moving an arsonist
+Honglo: is at best moving an arsonist
 
 협력해드리고프나,
 Honglo: I'd like to cooperate,
