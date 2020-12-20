@@ -26,7 +26,7 @@ Narration: the underground is the Great King Yeomra's,
 Narration: the sky, he the Jade Emperor decided to rule himself,
 
 마지막 한 곳, 인간들이 사는 지상은 공동의 책임으로 두었다.
-Narration: and the last place, the earth in which humans live, was left as a common responsibility.
+Narration: and the last place, the earth where humans live, was left as a shared responsibility.
 
 하지만, 질서를 잡는 일은 쉽지 않았으니
 Narration: However, it was not easy to establish order
@@ -68,7 +68,7 @@ Narration: The Jade Emporer brought them together
 Narration: to make 'Cheonjihae'.
 
 천지해는 옥황상제를 도와 천계와 천계의 주민을 위해 힘썼으며,
-Narration: Cheonjihae helped the Jade Emperor Sangje and worked hard for Heaven and the inhabitants of Heaven,
+Narration: Cheonjihae helped the Jade Emperor Sangje and worked hard for the celestial world and its inhabitants
 
 세월이 흘러 세대가 교체되어도
 Narration: even if generations change over time
@@ -80,10 +80,10 @@ Narration: they still inherit the will of the first Sangje.
 Narration: The first Sangje made Cheonjihae and
 
 그 천지해를 이끄는 우두머리는 오방신의 황룡, 즉 중앙황제신장이에요
-Narration: the head of Cheonjihae is the yellow dragon of the Obangshin, that is, the Central Yellow Guardian
+Narration: the head of Cheonjihae is the yellow dragon of the Obangsin, that is, the Central Yellow Guardian
 
 당신이 먼 훗날 짊어져야 할 일이지요
-Sihwa: It's something you'll have to bear
+Sihwa: It's something you'll have to bear in the future
 
 잘 해낼 수 있나요? 아가 황룡
 Sihwa: Can you do it well? Baby yellow dragon
