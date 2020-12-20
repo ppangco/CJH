@@ -83,7 +83,7 @@ Yeouno: By the way..!
 Lyun: There's a summon but he's sleeping?
 
 첫 출근 축하해! 중앙황제신장님!
-Yeouno: Congratulations on your first day at work! Central emperor!
+Yeouno: Congratulations on your first day at work! Central Yellow Guardian!
 
 아직 수습이야
 Lyun: I'm still in training
@@ -104,7 +104,7 @@ Lyun: Other than that...Cheonjihae hasn't all gathered yet?
 ---
 Info: Lyun
 -Cheonjihae
--Obangsin yellow dragon in training [Central Emperor]
+-Obangsin yellow dragon in training [Central Yellow Guardian]
 
 아니? 이 인원이 끝일걸?
 Yeouno: No? This many people will be all?
