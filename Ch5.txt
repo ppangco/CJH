@@ -92,13 +92,13 @@ Lyun: What the elder said didn't make sense, and I doubted him, but
 Lyun: I still came to the conclusion the fox was the culprit in my head?
 
 듣기 좋은 천지해의 이념을 들먹거려놓고 정작 난 그 이념에 반하는 행동을 하면서
-Lyun: While raising the honorable ideology of Cheonjihae, I actually acted against that ideology
+Lyun: While putting forth the honorable ideology of Cheonjihae, I actually acted against it
 
 목격자의 착각이나 조작일지도 모르는 증언 하나로
-Lyun: with one testimony that may have been an eyewitness misunderstanding or manipulated
+Lyun: with one testimony that may have been an eyewitness' misunderstanding or even manipulated
 
 원로의 발언이라는 그 사실 때문에
-Lyun: * Because of the fact that it was the elder's remarks
+Lyun: Because of the fact that it was an elder's remarks
 
 편파적인 판단을 한 건가
 Lyun: did I make a biased judgment
@@ -107,10 +107,10 @@ Lyun: did I make a biased judgment
 Cheongha: Besides
 
 {생각 외로 단순하잖아?}
-Cheongha: * Isn't it simpler than you think?
+Cheongha: {Well isn't this easier than I thought?}
 
 오늘 사건을 일으킨 건 너잖아
-Cheongha: You're the one causing the incident today
+Cheongha: You're the one causing the trouble today
 
 <복구 중
 Lyun< Recovering
@@ -134,7 +134,7 @@ Cheongha: because I would have burned it if you hadn't broken it
 Cheongha: Cheonjihae is getting increasingly flashy
 
 알아서 스러질 테지
-Cheongha: * It will fall on its own
+Cheongha: It will fall apart on its own
 
 잠ㄲ...!!!
 Lyun: Wait a sec...!!!
