@@ -68,7 +68,7 @@ Yeouno: Lyun!
 ---
 Info: Yeouno
 -Cheonjihae
--Head of Ten Symbols of Longevity Sun
+-Head of the Ten Symbols of Longevity Sun
 
 어? 너 혼자야? 여우로는?
 Lyun: Oh? You're by yourself? What about Yeoulo?
@@ -104,7 +104,7 @@ Lyun: Other than that...Cheonjihae hasn't all gathered yet?
 ---
 Info: Lyun
 -Cheonjihae
--Obangsin yellow dragon in training [Central Yellow Guardian]
+-Obangsin yellow dragon [Central Yellow Guardian] in training
 
 아니? 이 인원이 끝일걸?
 Yeouno: No? This many people will be all?
