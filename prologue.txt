@@ -2,7 +2,7 @@
 Narration: In the distant past,
 
 세상은 어지러웠다.
-Narration: the world was dizzy.
+Narration: the world was unstable.
 
 법도 정의도 존재하지 않았고,
 Narration: There was neither law nor justice,
