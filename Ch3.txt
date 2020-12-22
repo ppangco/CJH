@@ -39,7 +39,7 @@ Lyun: You're laughing too much
 Haneul: Ah but hahaha honestly it's funnyahahaha there were only 5 people in Cheonjihae
 
 웃지 마 너네 토끼 일족 수장님도 결석하셨어
-Lyun: Don't laugh, the head of your rabbit clan was also absent
+Lyun: Don't laugh, your rabbit clan's representative was also absent
 
 그건 내 탓이 아니지
 Haneul: It's not my fault
@@ -63,7 +63,7 @@ Lyun: I still have to do something with these 4 people...
 Lyun: ...over there...
 
 수장님?
-Lyun: Leader?
+Lyun: Representative?
 
 수장님은 어떻게 생각하시는지...
 Lyun: What do you think...
@@ -75,7 +75,7 @@ Lyun: Uh-
 Lyun: Ah...!
 
 아, 갠 거북 수장이야 수줍음쟁이지 아마
-Yeouno: Ah, he's the Turtle leader, maybe he's shy
+Yeouno: Ah, he's the Turtle representative, maybe he's shy
 
 <마당발
 Yeouno <knows everyone

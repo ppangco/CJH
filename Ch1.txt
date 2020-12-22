@@ -68,7 +68,7 @@ Yeouno: Lyun!
 ---
 Info: Yeouno
 -Cheonjihae
--Head of the Ten Symbols of Longevity Sun
+-The Ten Symbols of Longevity Sun Representative
 
 어? 너 혼자야? 여우로는?
 Lyun: Oh? You're by yourself? What about Yeoulo?
@@ -146,7 +146,7 @@ Hajin: Use your title for the offical seat
 ---
 Info: Hajin
 -Cheonjihae
--Head of the Dragon Zodiac
+-The Zodiac Dragon Representative
 
 잠시만요! 단체행동이 맞질 않는다니요! 분명 초대 옥황상제께서 만든 천지해는
 Lyun: Wait! Haven't worked in a group together?! For sure the Cheonjihae created by the first Jade Emperor
