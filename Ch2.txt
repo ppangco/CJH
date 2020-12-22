@@ -10,7 +10,7 @@ Info: Elder Munhwon
 Hajin: Elder Munhwon, for what urgent business did you call?
 
 {원로님이었구나}
-Lyun: It was an elder
+Lyun: Oh, it was an elder
 
 쫏
 Elder Munhwon: Huh
@@ -31,10 +31,10 @@ Elder Munhwon: Hey where are you going!
 Mayoo: I came out while preparing medicinal herbs
 
 천지해가 다 모이는 걸 기다리려면 하루 이틀은커녕 몇백 년 있어도 부족할 테고,
-Mayoo: Waiting for all of Cheonjihae to gather together will take more than a few hundred years, rather than a day or two
+Mayoo: Waiting for all of Cheonjihae to gather will take more than a few hundred years rather than a day or two
 
 시간을 너무 지체하면 약재를 못 쓰게 될 테니
-Mayoo: if you take too much time I won't be able to use the medicinal herbs
+Mayoo: and if this takes too long the herbs won't be usable
 
 전 그만 가보도록 하지요
 Mayoo: so I'll be leaving
@@ -64,10 +64,10 @@ Elder Munhwon: Let's just get to the point
 Elder Munhwon: My house was on fire last night
 
 다행히도 초기에 진압이 가능하여 큰 피해는 없었지만
-Elder Munhwon: Fortunately suppression was possible in the early stage so there was no significant damage
+Elder Munhwon: Fortunately it was possible to contain in the early stages, so there was no major damage
 
 범인의 모습은 찾을 수가 없었네
-Elder Munhwon: I couldn't find the culprit
+Elder Munhwon: but I couldn't find the culprit
 
 난 불을 지른 그 망할 년을 꼭 잡고 싶네
 Elder Munhwon: I want to catch that damn bitch who set the fire
@@ -112,7 +112,7 @@ Maid: Yes? Yes master
 Elder Munhwon: This kid said she was a vixen
 
 예에 어르신 여우였습죠
-Maid: Yes, it was an old fox
+Maid: Yes sir it was a fox
 
 ...여우?
 Hajin:...a fox?
@@ -127,16 +127,16 @@ Maid: Yes, it was a vixen with very long hair
 Elder Muhwon: Such an idiot!! Didn't you say she tied her hair up before!!
 
 아이고 어르신 제가 말실수를 했습니다
-Maid: Gosh elder I made a mistake
+Maid: Gosh, sir, I made a mistake
 
 개구리 일족은 정말 쓸모도 없는데 멍청하기까지 하군!!
-Elder Muhwon: The frog clan is really useless and even stupid!!
+Elder Muhwon: The frog clan is truly useless and even stupid!!
 
 죄송합니다 어르신
-Maid: Sorry elder
+Maid: Sorry sir
 
 말씀 중에 죄송하지만 여우 일족의 여성이라는 것으로도 여전히 범위가 너무 넓습니다
-Hajin: I'm sorry to say this but even being a woman of the fox clan is still too broad.
+Hajin: I'm sorry to say this but even her being a woman of the fox clan is still too broad.
 
 `륜 눈매 봐!`
 Yeouno: Lyun look at my eye!
@@ -148,7 +148,7 @@ Lyun: What are you doing
 Elder Muhwon: A blue fox
 
 푸른 털을 가진 여우를 잡아 내게 대령하게
-Elder Muhwon: Catch me a blue-haired fox and wait for my orders
+Elder Muhwon: Catch the blue-haired fox and wait for my orders
 
 푸른 털을 가진 여우?
 Hajin: A fox with blue hair?
