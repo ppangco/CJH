@@ -44,7 +44,7 @@ Narration: For that reason, there were frequent riots,
 Narration: and war broke out due to disagreement.
 
 아무리 옥황상제라 해도 모든 일을 혼자 해결할 수는 없는 법.
-Narration: No matter how great the Jade Emperor is, he could not solve everything alone.
+Narration: No matter how great the Jade Emperor was, he could not solve everything alone.
 
 대책을 생각해야 했다.
 Narration: He had to think about countermeasures.
