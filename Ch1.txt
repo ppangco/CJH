@@ -89,7 +89,7 @@ Yeouno: Congratulations on your first day at work! Central Yellow Guardian!
 Lyun: I'm still in training
 
 그래도 수습이라는 건 조만간 정식이 된다는 이야기잖아?
-Yeouno: Still, training means that you will become official sooner or later?
+Yeouno: Still, in training means you'll become official sooner or later?
 
 어쨌든 지금은 아니지
 Lyun: In any event not now
@@ -125,10 +125,10 @@ Lyun: 10 Symbols of Longevity
 Lyun: 5 Obangsin
 
 수습인 나를 제외한 천지해 인원은 27명
-Lyun: The number of people in Cheonjihae is 27 excluding me, the apprentice
+Lyun: The number of people in Cheonjihae is 27 excluding me, a trainee
 
 지금 구름 마을로 출장 가신 오방신을 제외해도 공석이 18자리나 되는데?
-Lyun: Excluding the Obangsin who are now on a business trip to Cloud Village there are 18 vacant seats?
+Lyun: Without the Obangsin who are on a business trip to Cloud Village there are 18 vacant seats?
 
 지금의 천지해는 단체행동에 맞지 않는 자들만 모여있으니까
 Hajin: Cheonjihae is currently those who haven't worked in a group together, so
@@ -137,7 +137,7 @@ Hajin: Cheonjihae is currently those who haven't worked in a group together, so
 Lyun: Unnie...!
 
 공식적인 자리에서는 호칭을 바꿔
-Hajin: Use your title for the offical seat
+Hajin: change your title on official occasions
 
 ---
 하진
@@ -149,10 +149,10 @@ Info: Hajin
 -The Zodiac Dragon Representative
 
 잠시만요! 단체행동이 맞질 않는다니요! 분명 초대 옥황상제께서 만든 천지해는
-Lyun: Wait! Haven't worked in a group together?! For sure the Cheonjihae created by the first Jade Emperor
+Lyun: Wait! Haven't worked in a group together?! Obviously the Cheonjihae created by the first Jade Emperor
 
 모려운 힘을 모아 천계의 어려운 일을 해결했다고
-Lyun: solved the difficult tasks of the celestial world with their power together
+Lyun: solved the challenges of the celestial world with their power together
 
 초대 상제님의 이념에 감명받으셨나 보네요
 Mayoo: You must have been impressed by the ideology of the first Sangje
@@ -179,7 +179,7 @@ Yeouno: Honestly, this is a lot of people
 Elder Munhwon: Have you all gathered?
 
 이른 새벽부터 수고하는군
-Elder Munhwon: Thank you for your trouble since early dawn
+Elder Munhwon: Thank you for your trouble so early in the morning
 
 천지해
 Elder Munhwon: Cheonjihae
