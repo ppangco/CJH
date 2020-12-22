@@ -150,15 +150,15 @@ Lyun: Besides the goblin clan...especially the night-goblins are aggressive and 
 Haneul: So you mean the elder lied?
 
 여우에게 죄를 덮어씌우려고?
-Haneul: To condem the fox?
+Haneul: to frame the fox?
 
 ..이건 내 감인데 거짓말은 아닐 거야
-Lyun: ..This is my sense but it isn't a lie
+Lyun: ..This is a gut feeling but I don't think it was a lie
 
 단지,
 Lyun: Just,
 
-뭔가를 숨기고 애기해주지 않은듯한 기분이 들어서
+뭔가를 숨기고 얘기해주지 않은듯한 기분이 들어서
 Lyun: I feel like he was hiding something and not telling us
 
 숨겨?
@@ -168,7 +168,7 @@ Haneul: Hiding?
 Lyun: The attitude of the servant with the elder
 
 원로님은 그 아이가 범인을 목격했다 했지만 내가 보기엔 아냐
-Lyun: The elder said she saw the culprit but that's not how I see it
+Lyun: The elder said she saw the culprit but that's what it looked like
 
 ""내 몸종이 봤다고 하더군""
 Elder Munhwon: ""My maid said she saw it""
@@ -180,10 +180,10 @@ Maid: ""Yes, it was a vixen with very long hair""
 Elder Munhwon: ""Such an idiot!! Didn't you say she tied her hair up before!!""
 
 ""아이고 어르신 제가 말실수를 했습니다""
-Maid: ""Gosh elder I made a mistake""
+Maid: ""Gosh, sir, I made a mistake""
 
 그 아인, 단지 주인의 말에 장단을 맞춘 것 뿐
-Lyun: That kid, is just trying to match the master's words
+Lyun: That kid was just trying to match her master's words
 
 `어색하기 짝이 없었지만`
 Lyun: It was awkward
@@ -207,7 +207,7 @@ Lyun: I didn't, I didn't but....
 Lyun: Unnie was also suspicious of something, so she probably went to investigate
 
 그래서 우리 수습님은 어쩌시려구?
-Haneul: So what about our apprentice?
+Haneul: So what's our trainee gonna do?
 
 아마 범인은 현장에 다시 돌아올 거라고 생각해
 Lyun: I think the culprit will come back to the scene
@@ -219,7 +219,7 @@ Lyun: If there was no damage and the fire was extinguished quickly there is a hi
 Lyun: So, starting tonight, I'll wait for the culprit to appear again
 
 너무 원초적인 방법인데...
-Haneul: It's a very basic method...
+Haneul: That's such a basic method...
 
 같이 보초설래?
 Lyun: Would you like to guard together?

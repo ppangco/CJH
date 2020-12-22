@@ -19,7 +19,7 @@ Info: Yeoulo
 -Older brother of the Sun representative Yeouno
 
 왜냐니.....
-Lyun: Why you ask.....
+Lyun: Why, you ask.....
 
 우리 지금 잠복 중이지?
 Lyun: Aren't we undercover now?
@@ -31,16 +31,16 @@ Yeoulo: Mhm
 Lyun: 'Mhm' yeah right...your hair stands out too much
 
 어쩔 수 없어 달빛 받으면 빛나는걸
-Yeoulo: I can't help it, it shines when it receives the moonlight
+Yeoulo: I can't help it, it shines in the moonlight
 
 그러니까 가리라고..!
-Lyun: So then go..!
+Lyun: Then cover it up..!
 
 륜이 그렇게까지 부탁한다면야...
-Yeoulo: If Lyun asks that way...
+Yeoulo: If Lyun asks me to do that...
 
 그래 제발 부탁이니 천지해 소집에도 나와주렴
-Lyun: Yes please, and come to the meeting of Cheonjihae too
+Lyun: Yes please, and come to the Cheonjihae summons too
 
 좋아
 Yeoulo: Alright
@@ -58,7 +58,7 @@ Yeoulo: I have to get enough sleep during the day
 Yeoulo: so I can shine at night
 
 그래그래 그러시겠지
-Lyun: Yeah yeah you will
+Lyun: Yeah yeah, I'm sure you do
 
 어, 진짠데
 Yeoulo: Oh, it's for real
@@ -76,13 +76,13 @@ Yeoulo: Of course of course
 Yeoulo: ...but
 
 역시 범인이 나타날 때까지 잠복하는 건 좀.... 무식한 방법인 거 같아
-Yeoulo: after all, I think hiding until the culprit appears is a little...ignorant
+Yeoulo: I also think hiding until the culprit appears is a little...ignorant
 
 그래, 역시 좀 그런가?
 Lyun: Yeah, is it a bit like that?
 
 `벌써 그 얘기 두번째 들었다만`
-Lyun: I've already heard that for the second time
+Lyun: I've heard that for the second time already
 
 비난하는 건 아냐
 Yeoulo: I'm not criticizing
