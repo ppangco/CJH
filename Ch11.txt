@@ -24,7 +24,7 @@ Cheongha: 어째.....
 Why.....
 
 `음, 완벽`
-Cheongha:  `Well, perfect`
+Cheongha:  `Hm, perfect`
 
 으아아아아아아아아
 Cheongha: Uwaaaaaaaa
@@ -33,7 +33,7 @@ Cheongha: Uwaaaaaaaa
 Cheongha: Who asked you to pick it up?
 
 필요 없거든?!
-Cheongha: I don't need it?!
+Cheongha: You think I need it?!
 
 으아아아아아
 Cheongha: Waaaaa
@@ -54,7 +54,7 @@ Cheongha: !!! You still have this!? Are you stupid!?
 Cheongha: Uwah!!!
 
 {비를 막아준 건가?}
-Cheongha: {Did he stop the rain?}
+Cheongha: {He blocked the rain?}
 
 ...미안...
 Cheongha: ...sorry...
@@ -63,7 +63,7 @@ Cheongha: ...sorry...
 Cheongha: After that I went there often
 
 그렇게 알게 된 건 그 애가 돌의 일족이며 이름은 진토라는 것
-Cheongha: I found out that he was from the stone clan and his name was Jinto
+Cheongha: I found out that he was from the stone clan and that his name was Jinto
 
 진토는 제법 많은걸 알고 있지만 정작 묻는 말에 대답은 대부분 '모른다' 인것
 Cheongha: that Jinto knew quite a lot, but mostly answered questions with "I don't know"
@@ -138,7 +138,7 @@ Jinto: Why do you always come to where I am?
 Cheongha: It..it's not like I'm taking time to go see you or anything!!
 
 그냥 한가해서!!! 한가해서 그래!!
-Cheongha: Just in my free time!!! My free time okay!!
+Cheongha: Just in my free time!!! My free time, okay!!
 
 그래?
 Jinto: Okay?
@@ -168,7 +168,7 @@ Cheongha: I'm not really supposed to tell outsiders about this
 Cheongha: but these beads are born when a fox is born with one
 
 그래서 그 여우의 꼬리가 10개가 되는 날 소원을 들어줘
-Cheongha: So on the day a fox gets 10 tails, it listens to them make a wish
+Cheongha: So on the day that fox gets 10 tails, it grants their wish
 
 호기심이 많았지만
 Cheongha: and he was curious but
