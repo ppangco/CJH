@@ -8,22 +8,22 @@ Yeoulo: We missed the criminal
 Yeoulo: and got wet
 
 왜?
-Lyun: Why?
+Lyun: What?
 
 그냥, 이뻐서
 Yeoulo: It's just, you're pretty
 
 ...그러냐
-Lyun: ...is it
+Lyun: ...is that so
 
 {미쳤나}
 Lyun: crazy
 
 ....비 많이 오네
-Lyun: It's raining a lot
+Lyun: ....It's raining a lot
 
-붐비니까 많이 와야지
-Yeoulo: ???
+봄비니까 많이 와야지
+Yeoulo: Well, it is spring rain
 
 그래도 동이 트기 전엔 그칠 거야
 Yeoulo: but it will stop before dawn
@@ -47,7 +47,7 @@ Lyun: It doesn't
 Yeoulo: Don't worry too much
 
 융통성 없고,
-Yeoulo: Inflexible,
+Yeoulo: You're inflexible,
 
 고지식하여,
 Yeoulo: a stickler for the rules,
@@ -56,10 +56,10 @@ Yeoulo: a stickler for the rules,
 Yeoulo: and hot-tempered, but
 
 그게 륜 다워서 좋은 거지
-Yeoulo: That's Lyun, so it's alright
+Yeoulo: That's Lyun, so it's okay
 
 {좋지 않아}
-Lyun: It's not alright
+Lyun: It's not okay
 
 {여우의 말.....}
 Lyun: The fox's words...
@@ -79,8 +79,8 @@ Hajin: I said to wait at home...
 나를 노력했다는 점에서는 칭찬해 주겠지만
 Hajin: I would praise you for your efforts but
 
-{칭찬과 꾸지람 들 중 하나만 해주세요}
-Lyun: Just one of the compliments and scoldings she gave me
+{칭찬과 꾸지람 둘 중 하나만 해주세요}
+Lyun: Just pick one, complimenting or scolding...
 
 도착했다
 Hajin: We've arrived
@@ -110,43 +110,43 @@ Lyun: It's just scary
 Hajin: What are you talking about?
 
 천지해의 십이지 용의 수장이 여우 마을의 수장을 만나러 왔습니다
-Hajin: The Dragon Zodiac representative of Cheonjihae has come to see the representative of the fox village
+Hajin: The Dragon Zodiac representative of Cheonjihae has come to see the chief of the fox village
 
 언니...그걸로 되는 거예요?
 Lyun: Unnie...is that what it is?
 
 여기 여우들 눈알이 빠질 듯이 우릴 노려보는데요
-Lyun: The foxes here are staring at us as if they've been waiting impatiently for a long time
+Lyun: The foxes here are staring like they're ready to pounce
 
 손님에게 무례는 삼가거라
 Honglo: Please refrain from being rude to guests
 
 `바로 용건..!`
-Lyun: `It's a business now..!`
+Lyun: `It's business now..!`
 
 여우 수장님 저희는 방화범을 잡으러 왔습니다
-Hajin: Representative of the foxes, we came here to catch an arsonist
+Hajin: Chief of the foxes, we came here to catch an arsonist
 
 푸른 털을 가진 여우에 대해 알고 계십니까?
 Hajin: Do you know about the blue-haired fox?
 
 고귀하신 천지해가
-Honglo: I can't believe the noble Cheonjihae
+Honglo: I can't believe
 
 고작 방화범 따위에 움직이다니요
-Honglo: is after an arsonist at best
+Honglo: the noble Cheonjihae is after an arsonist at best
 
 협력해드리고프나,
-Honglo: I'd like to cooperate,
+Honglo: I'd like to cooperate, but
 
 이곳에 푸른 털을 가진 여우는 없습니다
-Honglo: but there are no blue-haired foxes here
+Honglo: there are no blue-haired foxes here
 
 정 믿지 못하시겠다면,
-Honglo: If you can't believe it,
+Honglo: If you can't believe me,
 
 마을을 둘러보셔도 상관없습니다만
-Honglo: it's okay to look around the village
+Honglo: feel free to look around the village
 
 ...실례했습니다
 Hajin: ...excuse me
@@ -170,34 +170,34 @@ Lyun: Hold on!!
 Lyun: Surely.. surely we didn't go to this mountain
 
 헛것을 본 게 아니....
-Lyun: just to see nothing useful....
+Lyun: just to get nothing useful....
 
 알아
 Hajin: I know
 
 증거도 없이 섣불리 들쑤실 수는 없었으니까
-Hajin: because it can't be picked up hastily without proof
+Hajin: We couldn't just rush through without proof
 
 게다가 우리 둘로는 역부족이고
-Hajin: Furthermore, the two of us are not good enough
+Hajin: Besides, the two of us are not good enough
 
 괜히 여우 일족의 수장이 아니야
-Hajin: and she's not the representative of the fox clan for nothing
+Hajin: and she's not the chief of the fox clan for nothing
 
 언니...그럼...
 Lyun: Unnie...then...
 
 게다가
-Hajin: Besides
+Hajin: There's nothing left to say
 
 직접 잡아야 뒷말도 없지 않겠니
-Hajin: We have to catch it ourselves, there's no talking behind it
+Hajin: We have to catch it ourselves
 
 내, 일을 벌이지 말라고 누누이 말했거늘.
 Honglo: Hey, I've been telling you over and over again not to start something.
 
 너도 조만간 천호가 될 터인데 그리 철이 없어서 되겠느냐
-Honglo: You'll soon become a Cheonho too, but will it work because you're immature
+Honglo: You'll become a Cheonho soon yet you're still immature
 
 분노를 삭이라고는 하지 않겠다
 Honglo: I won't stop your anger
