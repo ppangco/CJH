@@ -8,7 +8,7 @@ Dad: Now, here you go!
 Lyun: Wow
 
 아빠, 어어떻게 해야 어른이 되는 거예요?
-Dad: Dad, how do you become an adult?
+Lyun: Dad, how do you become an adult?
 
 ...음....
 Dad: ...Hm....
@@ -20,7 +20,7 @@ Dad: You need to know how to take responsibility for what you say and do to beco
 Lyun: Then I'm an adult if I do that too?
 
 우리 공주님은
-Dad: *My(our) princess is
+Dad: Our princess is
 
 아직 멀었지요
 Dad: not there yet
@@ -29,7 +29,7 @@ Dad: not there yet
 Mom: Come and eat
 
 {오데갔나}
-Mom: Have you gone
+Mom: Has she gone out?
 
 어머니, 뭐 찾으세요?
 Hajin: Mother, what are you looking for?
@@ -44,13 +44,13 @@ Mom: Have you seen Lyun?
 Hajin: If it's Lyun, she already went out at dawn
 
 아니! 이 가시나가 새벽부터 말도 없이!!
-Mom: No! She left without a word from dawn!!
+Mom: No! That girl left at dawn without a word!!
 
 칵 고마 오기만 해바라!!
 Mom: Thank you, just come!!
 
 부질없는 짓을.....
-Hajin: No useless things.....
+Hajin: Useless things.....
 
 예전부터 느낀 거지만
 Lyun: I've felt it from before, but
@@ -65,7 +65,7 @@ Lyun: are scary
 Lyun: `Relax and..`
 
 여우 일족의 수장이신 천호님 계십니까!!!!
-Lyun: Is the representative of the fox clan Cheonho there!!!!
+* Lyun: Is the chief of the fox clan Cheonho there!!!!
 
 오늘은 천지해 황룡이 아닌
 Lyun: Today I came to talk not as the yellow dragon of Cheonjihae
@@ -110,7 +110,7 @@ Honglo: Trainee yellow dragon
 Honglo: Have a seat
 
 앗, 네
-Lyun: Ah, yeah
+Lyun: Ah, yes
 
 이곳은 청하의 방입니다
 Honglo: This is Cheongha's room
@@ -134,7 +134,7 @@ Honglo: .....This is.....
 Lyun: I'm sorry
 
 제대로 알아보지도 않은 탓에, 일이 이 지경까지 오게 되었습니다.
-Lyun: Because I didn't recognize it properly, things came to this point.
+Lyun: Because I didn't recognize it well, things came to this point.
 
 흐음,
 Honglo: Hmm,
@@ -158,10 +158,10 @@ Honglo: As they age, one tail sprouts every hundred years
 Honglo: On the day they reach ten, they get the title of Cheonho (*one thousand)
 
 천호가 되는 순간 주인과 함께 천년의 정기를 머금은 여우 구슬은
-Honglo: and the moment they become a Cheonho, the fox bead with the essence of a thousand years with its owner
+Honglo: and the moment they become a Cheonho, the fox bead that spent a thousand years with its owner
 
 주인의 소원을 들어줍니다
-Honglo: grants its owner's wish
+Honglo: grants them a wish
 
 청하는 머지않아 천호가 욀 예정이었지요
 Honglo: Cheongha was going to be a Cheonho soon
