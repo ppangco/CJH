@@ -45,7 +45,7 @@ Cheongha: The weather is crazy!!
 Cheongha: You..why are you still here!!!
 
 `비만 그치면 후딱나가자`
-Cheongha: `When the rain stops, let's leave quickly`
+Cheongha: `Let's get out of here when it stops raining.`
 
 !!! 이걸 아직도 가지고 있었어!? 바보아냐!?
 Cheongha: !!! You still have this!? Are you stupid!?
@@ -63,7 +63,7 @@ Cheongha: ...sorry...
 Cheongha: After that I went there often
 
 그렇게 알게 된 건 그 애가 돌의 일족이며 이름은 진토라는 것
-Cheongha: I found out that he was from the stone clan and that his name was Jinto
+Cheongha: I found out he was from the stone clan and that his name was Jinto
 
 진토는 제법 많은걸 알고 있지만 정작 묻는 말에 대답은 대부분 '모른다' 인것
 Cheongha: that Jinto knew quite a lot, but mostly answered questions with "I don't know"
@@ -165,7 +165,7 @@ Cheongha: Right?
 Cheongha: I'm not really supposed to tell outsiders about this
 
 이 구슬은 말야 여우가 태어날 때 하나씩 가지고 태어나
-Cheongha: but these beads are born when a fox is born with one
+Cheongha: but these beads are born when a fox is born
 
 그래서 그 여우의 꼬리가 10개가 되는 날 소원을 들어줘
 Cheongha: So on the day that fox gets 10 tails, it grants their wish
