@@ -23,7 +23,7 @@ Hajin: The future Central Yellow Guardian has no self control!!!
 Hajin: You're so hot-tempered!!!
 
 여우를 잡았나!
-Elder Munhwon: Did you catch the fox!
+Elder Munhwon: You caught the fox!
 
 천지해도 아주 쓸모가 없지는 않군!
 Elder Munhwon: Huh, Cheonjihae's not totally useless too!
@@ -176,10 +176,10 @@ Lyun: That's the founding philosophy of the first Jade Emperor
 Hajin: I will tell you though you're still living in a fantasy
 
 지금의 천지해가 왜 단합조차 안 된는 콩가루 집단이 되었는지 알려줄까?
-Hajin: Can you say why the current Cheonjihae has become a broken group that can't even unite?
+Hajin: Do you want me to say why Cheonjihae has become a broken group that can't even unite?
 
 대부분의 천지해들은 천지해의 자리에 오르게 될 때 너와 같은 생각을 해.
-Hajin: Most of Cheonjihae thinks the same way as you when it comes to Cheonjihae's place.
+Hajin: Most everyone thinks the same way as you when they get a position in Cheonjihae.
 
 초대 옥황상제의 이념에 동의하며, 모두를 위해 움직이겠다고 말이야
 Hajin: They agree with the ideology of the first Jade Emperor, to take action for everyone
@@ -197,7 +197,7 @@ Hajin: just like you now
 Hajin: The noble ideology has deteriorated for thousands of years
 
 지금의 천지해는 그저 이름만 이어오고 있지
-Hajin: and Cheonjihae is just a name now
+Hajin: and now Cheonjihae is just a name
 
 처음의 그 이념으로 되돌리려고 노력한 자들이 몇몇 있었지만
 Hajin: There were some who tried to return to the original ideology but
