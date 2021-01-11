@@ -101,12 +101,16 @@ I like sun showers
 나도 그렇게 되겠지
 then so do I
 
----
+--profile--
 이름: 륜
 성별: 女
 직위: 천지해 수습 중앙황제신장
 나이: 약 1900세
----
+-----------
+Name: Lyun
+Gender: Female
+Position: Cheonjihae Central Yellow Guardian in training
+Age: About 1900
 
 여우비 이야기 -終-
 Yeoubi Arc -End-

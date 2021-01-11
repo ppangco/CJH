@@ -5,7 +5,7 @@ Yeoubi Ep 14
 {No need to watch more}
 
 {스스로 깨닫지 못하는 한 몇 번을 말해도 소용없을 테니}
-Unless you realize it yourself, it's useless no matter how many times I say it
+No matter how many times I say it, it's useless unless she realizes it herself
 
 {앉을 곳은커녕 발 디딜 틈도 없네}
 There's no place to step let alone a place to sit
@@ -21,14 +21,14 @@ What?
 -정보상
 -쥐의 일족
 ---
-Sigung
+Shigung
 -Informant
 -Rat clan
 
 안녕하십니까 시궁님 전......
-Hello Sigung, I'm......
+Hello Mr. Shigung, I'm......
 손님이야?
-Are you a guest?
+* Are you a guest (customer)?
 
 ...아....네.....
 ...ah....yes.....
@@ -40,10 +40,10 @@ What's going on?
 I would like to borrow your help
 
 성곽 안,
-Inside the fortress,
+* Inside the fortress (wall),
 
 축시방향의
-in the axial direction,
+* around Chuksi (1AM - 3AM)
 문훤 원로의 감시하에 있는 감옥
 a prison under the surveillance of Elder Munhwon
 
@@ -105,7 +105,7 @@ Well...don't worry. I know the value of information, so I don't tell others thou
 그럼 제게도 정보를.....
 Then
 알려줄까 말까~?
-I should tell you information too or not~?
+I should tell you information too or no~?
 ....알려주세요
 please tell me information too
 
@@ -117,7 +117,7 @@ I'll do that
 ....thank you
 
 그런데 황룡이가 생각하는 일은 쉽지가 않을 텐데
-But what you, yellow dragon, think would not be easy
+But what you, yellow dragon, are thinking of would not be easy
 
 생각해둔 작전은 있어?
 Do you have a plan in mind?
