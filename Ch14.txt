@@ -2,146 +2,160 @@
 Yeoubi Ep 14
 
 {더 지켜볼 필요도 없지}
-{No need to watch more}
+Hajin: {No need to watch more}
 
 {스스로 깨닫지 못하는 한 몇 번을 말해도 소용없을 테니}
-No matter how many times I say it, it's useless unless she realizes it herself
+Hajin: {No matter how many times I say it, it's useless unless she realizes it herself}
 
 {앉을 곳은커녕 발 디딜 틈도 없네}
-There's no place to step let alone a place to sit
+Lyun: {There's no place to step let alone a place to sit}
 
 흠흠 크흠흠
-Ahem
+Lyun: Ahem
 
 어엉?
-What?
+Shigung: What? (Huh?)
 
 ---
 시궁
 -정보상
 -쥐의 일족
 ---
-Shigung
+Info: Shigung
 -Informant
 -Rat clan
 
 안녕하십니까 시궁님 전......
-Hello Mr. Shigung, I'm......
+Lyun: Hello Mr.(Mister) Shigung, I'm......
+
 손님이야?
-* Are you a guest (customer)?
+Shigung: * Are you a guest (customer)?
 
 ...아....네.....
-...ah....yes.....
+Lyun: ...ah....yes.....
 
 무슨 일?
-What's going on?
+Shigung: What's going on?
 
 시궁님의 힘을 빌리고 싶습니다
-I would like to borrow your help
+Lyun: I would like to borrow your(some) help
 
 성곽 안,
-* Inside the fortress (wall),
+Shigung: * Inside the fortress (wall),
 
 축시방향의
-* around Chuksi (1AM - 3AM)
+Shigung: * around Chuksi (1AM - 3AM)
+
 문훤 원로의 감시하에 있는 감옥
-a prison under the surveillance of Elder Munhwon
+Shigung: a prison under the surveillance of Elder Munhwon
 
 물론, 정보야 있지
-of course, there's information
+Shigung: of course, there's information
 
 감옥 내부 지도라던가
-like maps of inside the prison
+Shigung: like maps of inside the prison
 
 감시관의 교대 시간 및 감시 시간
-the watchmen's shifts and surveillance times
+Shigung: the watchmen's shifts and surveillance times
 
 사각지대
-blind spots
+Shigung: blind spots
 
 쥐구멍
-mouseholes
+Shigung: mouseholes
 
 {쥐구멍..?}
-{Mouseholes..?}
+Lyun: {Mouseholes..?}
+
 힘을 빌려주실 수 있으십니까?
-Can you lend me your help?
+Lyun: Can you lend me your help?
+
 그러고 보니
-Come to think of it
+Shigung: Come to think of it
 
 푸른 여우에 대한 일, 훌륭하게 끝냈다면서?
-Didn't you say the job with the blue fox was finished nicely?
+Shigung: Didn't you say the job with the blue fox was finished nicely?
 
 ...예, 끝났지요. 그러나..
-...Yes, it's over. But..
+Lyun: ...Yes, it's over. But..
 
 왜 괜히 끝난 일을 끄집어내? 죄수를 빼돌리는 건 범죄야
-Why are you pointlessly bringing up what's over? It's a crime to take a prisoner away
+Shigung: Why are you pointlessly bringing up what's over? It's a crime to take a prisoner away
 
 밤말은 쥐가 듣고,
-Rats hear words spoken at night,
+Shigung: Rats hear words spoken at night,
 
 낮말도 쥐가 듣지
-not words spoken in the day
+Shigung: not words spoken in the day
 
 * a reference to the phrase "Birds hear words spoken in the day and rats hear words spoken at night" similar to "the walls have ears"
 
 아무리 황룡이라 하더라도,
-No matter if you're a yellow dragon,
+Shigung: No matter if you're a yellow dragon,
 
 발각될 시엔 그냥 넘어가지 않을걸?
-they won't just let you go if you're discovered, right?
+Shigung: they won't just let you go if you're discovered, right?
 
 아, 물론 어디서 정보가 샌 건 아냐
-Ah, of course it's not that the information was leaked
+Shigung: Ah, of course it's not that the information was leaked
+
 너무 의도가 뻔히 보여서 그냥 떠본 건데
-It was so obvious when I just thought about it
+Shigung: It was so obvious when I just thought about it
+
 반응이 솔직하네 수습 황룡님
-but the reaction is honest, trainee yellow dragon
+Shigung: but the reaction is honest, trainee yellow dragon
+
 
 뭐...걱정마. 이쪽도 정보의 귀중함을 아니까 함부로 남에게 알려주진 않아
-Well...don't worry. I know the value of information, so I don't tell others thoughtlessly
+Shigung: Well...don't worry. I know the value of information, so I don't tell others thoughtlessly
 
 그럼 제게도 정보를.....
-Then
+Lyun: Then*
+
 알려줄까 말까~?
-I should tell you information too or no~?
+Shigung: I should tell you information too or no~?
+
 ....알려주세요
-please tell me information too
+Lyun: please tell me information too
 
 그럴까..? 그래,
-Is that so..? Okay,
+Shigung: Is that so..? Okay,
+
 그러지 뭐
-I'll do that
+Shigung: I'll do that
+
 ....감사드립니다
-....thank you
+Lyun: ....thank you
 
 그런데 황룡이가 생각하는 일은 쉽지가 않을 텐데
-But what you, yellow dragon, are thinking of would not be easy
+Shigung: But what you, yellow dragon, are thinking of would not be easy
 
 생각해둔 작전은 있어?
-Do you have a plan in mind?
+Shigung: Do you have a plan in mind?
 
 시궁님께 정보를 얻으면 그것을 토대로 생각하려 했습니다
-When I got information from Shigung, I tried to think with it as a basis
+Lyun: When I got information from Shigung, I tried to think with it as a basis
+
 그러니까 생각 안 한 거구나
-So you didn't think about it
+Shigung: So you didn't think about it
 
 그럼 도움이 될만한 제안을 해줄까?
-So can you give me some helpful suggestions?
+Shigung: So can you give me some helpful suggestions?
 
 ....감사하지만, 시궁님이 제게 그렇게까지 해주실 의리는 없지 않습니까?
-....I'm grateful, but are you willing to do so much for me?
+Lyun: ....I'm grateful, but are you willing to do so much for me?
 
 그냥 해주는 거 아닌데? 일단은 재밌어 보이는 이유도 있지만,
-I'm not just doing it for you? First of all, there's also a reason why it looks interesting,
+Shigung: I'm not just doing it for you? First of all, there's also a reason why it looks interesting,
+
 난 정보를 팔기만 하는 게 아니라 사기도 하지
-but I don't just sell information, I also buy it
+Shigung: but I don't just sell information, I also buy it
 
 수습 황룡이라는 자가 천지해 자체의 임무를 거스르고, 무슨 일을 벌일지에 흥미가 생겼으니
-The trainee yellow dragon is going against Cheonjihae's own mission, and I'm interested in what you're going to do
+Shigung: The trainee yellow dragon is going against Cheonjihae's own mission, and I'm interested in what you're going to do
+
 일이 끝난 후, 나에게 이번 일에 대해 이것저것 상세히 말해주는 거로 정보이용료를 지불하는 건 어때?
-After work, how about paying the information service fee by telling me about this and that in detail?
+Shigung: After work, how about paying the information service fee by telling me about this and that in detail?
 
 물론 강요는 안하지만,
-Of course I won't force you, but...
+Shigung: Of course I won't force you, but...
