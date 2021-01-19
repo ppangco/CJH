@@ -185,4 +185,5 @@ Name: Aseong
 Gender: Male
 Position: Night Iron God
 Age: About 8000
-Remarks: Speaks dialect
+Remarks: 
+Speaks dialect
