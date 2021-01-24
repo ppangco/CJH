@@ -97,7 +97,7 @@ Shigung: No matter if you're a yellow dragon,
 Shigung: they won't just let you go if you're discovered, right?
 
 아, 물론 어디서 정보가 샌 건 아냐
-Shigung: Ah, of course it's not that this information was leaked
+Shigung: Ah, of course it's not that this info was leaked
 
 너무 의도가 뻔히 보여서 그냥 떠본 건데
 Shigung: It was just so obvious when I thought about it
@@ -112,10 +112,10 @@ Shigung: Well...don't worry. I know the value of information, so I don't tell ot
 Lyun: then can you...
 
 알려줄까 말까~?
-Shigung: tell you information too or no~?
+Shigung: tell you information or no~?
 
 ....알려주세요
-Lyun: please tell me information too
+Lyun: please tell me
 
 그럴까..? 그래,
 Shigung: Is that so..? alright,
@@ -133,7 +133,7 @@ Shigung: But what you, yellow dragon, are thinking of would not be easy
 Shigung: Do you have a plan in mind?
 
 시궁님께 정보를 얻으면 그것을 토대로 생각하려 했습니다
-Lyun: When I get the information from Shigung, I'll try to think with it as a basis
+Lyun: When I get the info from Shigung, I'll try to think with it as a basis
 
 그러니까 생각 안 한 거구나
 Shigung: So you didn't think about it
@@ -154,7 +154,7 @@ Shigung: but I don't just sell information, I also buy it
 Shigung: The trainee yellow dragon is going against Cheonjihae's own mission, and I'm interested in what you're going to do
 
 일이 끝난 후, 나에게 이번 일에 대해 이것저것 상세히 말해주는 거로 정보이용료를 지불하는 건 어때?
-Shigung: After the matter, how about paying for this information by telling me about what happened in detail?
+Shigung: After the matter, how about paying for this info by telling me about what happened in detail?
 
 물론 강요는 안하지만,
 Shigung: Of course I won't force you, but...
