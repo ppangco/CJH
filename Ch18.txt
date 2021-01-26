@@ -2,13 +2,13 @@
 Yeoubi Ep 18
 
 이곳이 마지막 길이네
-This is the last path
+Shirang: This is the last path
 
 아
-Ah
+Shirang: Ah
 
 누나
-Noona
+Shirang: Noona
 
 시간 다 됐어
 Time is up
@@ -95,7 +95,7 @@ Gender: Male
 Age: About 3000
 Remarks:
 An informant, he knows most of the information about the celestial world.
-First of the rat siblings
+First of the mice siblings
 
 --profile--
 이름: 시은
@@ -114,7 +114,7 @@ Remarks:
 Carefree.
 Takes good care of her younger siblings.
 Her weapon is an unwoldo.
-The second of the rat siblings.
+The second of the mice siblings.
 
 --profile--
 이름: 시랑
