@@ -56,7 +56,7 @@ Shigung: of course, there's information
 Shigung: like maps of inside the prison
 
 감시관의 교대 시간 및 감시 시간
-Shigung: the watchmen's shifts and surveillance times
+Shigung: watchmen's shifts and surveillance times
 
 사각지대
 Shigung: blind spots
@@ -106,7 +106,7 @@ Shigung: It was just so obvious when I thought about it
 Shigung: but my words are honest, trainee yellow dragon
 
 뭐...걱정마. 이쪽도 정보의 귀중함을 아니까 함부로 남에게 알려주진 않아
-Shigung: Well...don't worry. I know the value of information, so I don't tell others thoughtlessly
+Shigung: Well...don't worry. I know the value of information, so I don't tell others carelessly
 
 그럼 제게도 정보를.....
 Lyun: then can you...
