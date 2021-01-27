@@ -35,16 +35,16 @@ Lyun: Ah,
 Lyun: found it
 
 조력자를 보내줄게
-Shihung: I'll send helpers
+Shigung: I'll send helpers
 
 도움이 될 거야
-Shihung: to aid you
+Shigung: to aid you
 
 이번 일은 물론,
-Shihung: Not only this time,
+Shigung: Not only this time,
 
 앞으로의 일에도
-Shihung: but also the times ahead
+Shigung: but also the times ahead
 
 오늘이다
 Cheongha: It's today
