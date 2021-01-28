@@ -80,13 +80,13 @@ Shirang: ask the yellow dragon directly who's creating a diversion outside
 Gaurd: That way!!!!!
 
 여우를 만나 탈출할 때는 들어갈 때와 다른 길을 사용하셔야 합니다
-Lyun: Once they meet the fox and escape, they'll have to use a different way than when they entered
+Lyun: Once you meet the fox and escape, you'll have to use a different path than when you enter
 
 침입할 때 이용한 쥐구멍은 쥐의 일족인 두 분이기에 가능한길이었습니다
-Lyun: The mouse hole that was used to invade was a possible way because the two of them are from the rat family
+Lyun: The mouse hole used to invade is a possible way because the two of you are from the rat clan
 
 하지만 탈출 시엔 여우가 함께이기에 축소 효과가 1분 동안만 지속되는 시랑님의 축소 능력상 쥐구멍만을 사용할 수는 없겠지요
-Lyun: But since a fox is with them when they escape and Shirang's reduction ability only lasts for 1 minute, it's not possible to just use the mouse hole
+Lyun: But since a fox is with you when you escape and Shirang's reduction ability only lasts for 1 minute, it's not possible to use just the mouse hole
 
 아직 3초 남았지?
 Shieun: Still 3 seconds left?
@@ -95,7 +95,7 @@ Shieun: Still 3 seconds left?
 Shirang: Mhm
 
 1분 이상 지체하면 여우가 쥐구멍에서 커져 버려 문제가 될테니까요
-Lyun: If they wait more than a minute, the fox will outgrow the mouse hole and that would be a problem
+Lyun: If you wait more than a minute, the fox will outgrow the mouse hole and that would be a problem
 
 제가 적어둔 경로를 따라가시면 될 겁니다
 Lyun: Just follow the path I wrote down

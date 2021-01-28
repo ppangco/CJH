@@ -35,7 +35,7 @@ Shieun: Anyway
 Shieun: We'll give you a signal when we're done
 
 출발할게
-Shieun: I'll depart
+Shieun: Let's head out
 
 시은님, 시랑님
 Lyun: Shieun, Shirang
@@ -128,7 +128,7 @@ Lyun: Yeah!
 Lyun: Good
 
 정신 똑바로 차리자
-Lyun: Let's get it together
+Lyun: Let's get in gear
 
 괜찮아, 작전대로 하면 아무런 문제 없어
 Lyun: It's okay, if we follow the plan, it will be no problem
