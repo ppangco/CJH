@@ -2,70 +2,119 @@
 Echo Ep 1
 
 갇혔다
+Goblin: I'm trapped
+
 갇혔다
+Goblin: I'm trapped
 
 나갈 수 없어
+Goblin: I can't get out
+
 나갈 수 없어
+Goblin: I can't get out
+
 어쩌지
+Goblin: What should I do?
+
 어쩌지
+Goblin: What should I do?
 
 죽이자
+Goblin: Let's kill her*
+
 죽이자
+Goblin: Let's kill her
+
 산을 죽이자
+Goblin: Let's kill the mountain
 
 ...덥다.......
+Lyun: ...hot.......
 
 ....덥네
+Haneul: ....It's hot
 
 ---
 하늘
--도끼 일족
+-토끼 일족
 ---
+Info: Haneul
+-Rabbit clan
 
 ....여름이니까.....
+Lyun: ....Since it's summer.....
+
 여름 싫다
+Haneul: I hate summer
+
 이거 정말 무의미한 대화인데
+Lyun: This is a really pointless conversation
 
 그러고 보니 오늘은 한가한가 봐?
+Haneul: Come to think of it, you must be free today?
 
 무슨 말씀~ 아침에 한 바퀴 돌고 왔는걸
+Lyun: What do you mean~ I went around once in the morning
 
 부지런하기도 하셔라
+Haneul: You're so diligent
 
 그게 내 장점이지!
+Lyun: That's my strength!*
 
 할 수 있을 것 같아
+Lyun: I think I can do that
+
 응?
+Haneul: Hm?
 
 나는 시화님같은 능력도 없고
+Lyun: I don't have skills like Sihwa
 
 [널 응원하마]
+Gramps: I will support you
 
 모든 일을 혼자 처리할 자신도 없어
+Lyun: I'm not confident in taking care of everything by myself
 
 그래도
+Lyun: Even so
 
 난 할 수 있어
+Lyun: I can do it
 
 열심히 하는 것도 좋지만 몸은 사려
+Haneul: It's good to work hard, but be considerate of your body
 
 따지고 보면 신입이잖아
+Haneul: After all, You're a newcomer 
 
 은연중에 소문이 돌아
+Haneul: There's a rumor going around secretly
+
 푸른 여우 탈옥 사건의 주모자가 수습 황룡이 아닌가 하는...
+Haneul: They suspect the culprit of the blue fox's escape is the yellow dragon
 
 첫 무대치고는 과했지 불법이었고
+Haneul: 
+
 확실한 증거가 없어서 그렇지
+Haneul: 
 
 이제 위에 놈들이 널 주시할 거야
+Haneul: The jerks higher-up will be watching you now
 
 어느 정도는 예상 범위야
+Lyun:
 
 그리고 그거 알아?
+
 내 뒤통수 친 놈이 저놈인 게 확실한데
+
 아무것도 할 수 없을 때의 분통 터지는 그 기분
 
 정신 차려 이 화상아
+
 시작이 좋다고 끝도 마냥 좋은 건 아니야
 
 `너 가만 안둬?!`
@@ -75,6 +124,7 @@ Echo Ep 1
 어! 하진 언니...
 
 백림대선께서 웬일이십니까?
+
 제....놀리지 마요...
 
 아...... 진짜 어워 죽겠네
@@ -84,6 +134,7 @@ Echo Ep 1
 -신선(백림대선)
 
 무슨 일 있었어? 웬 예복 차림?
+
 `평소에는 잘 입지도 않더니`
 
 신선들도 가끔은 점잔 빼고 모이거든요 아주 가끔....
