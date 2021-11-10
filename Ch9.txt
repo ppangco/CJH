@@ -56,7 +56,7 @@ Elder Munhwon: Useless!!!
 Elder Munhwon: How did I get it, and yet!!!
 
 쳐죽일 것!!!
-Elder Munhwon: Kill it!!!
+Elder Munhwon: I'll kill you!!!
 
 이이....!
 Elder Munhwon: Th-this....!
@@ -92,7 +92,8 @@ Hajin: Lyun, what are you looking at?
 Lyun: Ah! Unnie!
 
 ...그 호칭은 뭐야?
-Hajin: ...what's the title?
+Hajin: ...what's with the title?
+* Lyun used an honorific which surprised Hajin
 
 이거 보세요! 반짝반짝해요!
 Lyun: Look at this! It's shiny!
@@ -101,13 +102,13 @@ Lyun: Look at this! It's shiny!
 Hajin: A jewelry book....?
 
 쪼그만 게 벌써부터...
-Hajin: The little things in your hair...
+Hajin: The little one is already...
 
 아주 예뻐요! 엄마만큼 예뻐요!!!
 Lyun: So pretty! As pretty as mom!!!
 
 네 머리에 달린 것도 보석인데...
-Hajin: are already jewelry, too...
+Hajin: The things in your hair are jewelry, too...
 
 음..이건 여우 구슬이네
 Hajin: Hm..this one is a fox bead
@@ -224,7 +225,7 @@ Hajin: you're forgetting one important fact
 Hajin: He has a great reputation as the yellow dragon of the Obangsin, not as the yellow dragon of Cheonjihae
 
 천지해의 소집 첫날, 시화님은 다른 천지해 구성원들의 마음을 돌리는 것을 포기하셨다
-Hajin: On his first Cheonjihae meeting, Sihwa gave up on changing the hearts of the other members
+Hajin: By my first Cheonjihae meeting, Sihwa gave up on changing the hearts of the other members
 
 ...천지해 인원은 원래 이 정도인가요?
 Sihwa: ...there are this many people in Cheonjihae?
@@ -236,7 +237,7 @@ Sihwa: Blue Guardian, White Guardian, Black Guardian, Red Guardian....
 Sihwa: Can all four of you follow me?
 
 그분은 지금까지 천지해의 도움은 바라지도 않으셨어
-Hajin: He didn't even want Cheonjihae's help until now
+Hajin: He didn't even want Cheonjihae's help so far
 
 오로지, 자신과 오방신의 힘만으로 문제를 해결하셨지
 Hajin: He solved the problems entirely with the power of himself and the Obangsin
