@@ -2,23 +2,29 @@
 Echo Ep 4
 
 수장이신 한울님을 뵙습니다
+Unknown Deer: Nice to meet you representative Hanul
 
 ---
 호
 -풍백
 ---
 Info: Ho
--
+-Fengbo (add some note on this)**
 
 풍백님?! 풍백님이 어곳에?
+Unknown Deer: Fengbo?! Where is Fengbo?**
 
 가끔 놀러 오곤 하지
+Hanul: She comes to play sometimes
 
 자고 있으니 조용히 이야기 하자꾸나
+Hanul: She's sleeping, so let's talk quietly
 
 아, 예 그렇다면 보고 드리겠습니다
+Unknown Deer: Ah, yes. I'll report it to you
 
 연쇄 살해범에 대한 건입니다
+Unknown Deer: It's about a murderer
 
 ---
 한울
@@ -27,101 +33,148 @@ Info: Ho
 ---
 Info: Hanul
 -Cheonjihae
--
+-The Ten Symbols of Longevity Deer Representative
 
 현재 사슴 일족 중 사망자가 23명 상해를 입은 자가 2명으로 추정되며
+Unknown Deer: Currently, it is estimated that 23 people died and 2 people were injured among the deer clan
 
 다른 일족에게선 이야기가 없는 거로 보아 범인은 사슴 일적만 골라 살해하고 있는 것 같습니다.
+Unknown Deer: Considering that there is no reports from the other clans, the criminal seems to be killing only deer.
 
 사슴 일족만 골라서라...
+Hanul: Choosing only the deer clan...
 
 범행은 깊은 산속에서만 이루어지고 있어 현재는 조심하는 수밖에 없습니다
+Hanul: The crimes are only committed deep in the mountains, so we have no choice but to be careful now
 
 피해자가 25명으로 추정된다는 것은 아직 밝혀지지 않은 피해자가 더 있을지도 모른다는 애기군
+Hanul: The fact that there are estimated to be 25 victims means that there may be more victims that are not yet known
 
-네, 그리고 도움을 청하기 위해 생전자의 증언에 따라 수배서를 만들어 천지해 용의 수장에게 버냈습니다
+네, 그리고 도움을 청하기 위해 생존자의 증언에 따라 수배서를 만들어 천지해 용의 수장에게 보냈습니다
+Unknown Deer: Yes, and to request for help, I made a wanted letter according to the testimony of the survivors and sent it to cheonjihae's dragon representative
 
 천지해라.....
+Hanul: Cheonjihae.....
 
 내가 말하긴 그렇지만...
+Hanul: It's hard to say but...
 
 큰 도움은 기대하기 힘들 거란 말이지...
+Hanul: It's going to be difficult to expect a lot of help...
 
 아~지친다
+Noghwan: Ah~ I'm tired
 
 결국
+Lyun: In the end
 
 알아낸 건 하나도 없네
+Lyun: We didn't find out anything
 
 하루를 다 바쳤는데 수확은 없네요
+Noghwan: We've spent the whole day, but it didn't yield anything
 
 애초에 그 수배서 자체가 이상해요
+Noghwan: In the first place, the wanted poster itself is strange
 
 얼굴도 안 나온 수배서로 어떻게 찾아요?
+Noghwan: How can we find them with a wanted poster that doesn't even show thier face?
 
 그나마 특징이랄게 이 손목에 문신 정도 일 텐데
+Noghwan: Too bad the most distinctive feature would be the tattoo on their wrist
 
 누가 남의 손목만 유심히 보겠어요
+Noghwan: Who even looks closely at other people's wrists?
 
 녹환아
+Lyun: Noghwan
 
 이 연쇄 살해범 말이야 사슴 일족만 23명이나 살해했잖아
+Lyun: This murderer. He killed 23 people in the deer clan
 
 무슨 원한이라도 있는 걸까?
+Lyun: Do you have any resentment?
 
 설마요
+Noghwan: No way
 
 사슴 일적은 수장이 온화하고 그 일족들 또한 온화한 성품이라
+Noghwan: As for the deer representative, he is gentle natured and his clan as well
 
 남에게 피해를 주는 일은 하지 않는다고 알고 있어요
+Noghwan: I know that he doesn't do anything that would harms others
 
 이런 놈들은 도대체 무슨 생각을 하는 걸까
+Lyun: What the hell is this guy thinking?
 
 글쎄요
+Noghwan: Well
 
 전 누군가를 해하는 행위 자체가 이해도 안 가고, 이해할 가치도 없다고 생각해서.....
+Noghwan: I don't understand the act of harming someone, and I don't think it's worth understanding.....
 
 그보다, 산의 수장남 일은 어떻게 되어가는 거예요?
+Noghwan: One top of that, what's going on with the mountain representative?
 
 그건 걱정 마
+Lyun: Don't worry about that
 
 산이 가려졌다는 이야기 알고 계십니까?
+Lyun: Do you know the rumor that the mountain is hidden?
 
 시랑님께 부탁드리고 싶은 일이 있습니다
+Lyun: There is something I want to ask you Shirang
 
-산의 수장이라고는 해도 아직 어리신 분이니,.
+산의 수장이라고는 해도 아직 어리신 분이니..
+Lyun: Even though she is the mountain representative, she is still young..
 
 산을 가렸지만 조금은 틈이 있을 터...
+Lyun: I hid the mountain, but there must be a little gap...
 
 아주 작은 틈이라도 괜찮습니다
+Lyun: Even if it's a small gap, it's fine
 
 찾아 주실 수 있으십니까?
+Lyun: Can you find it for us?
 
 부탁드려놨거든
+Lyun: I asked for assistance
 
 네... 뭐 그렇다면야....
+Noghwan: Yes... Well if that's the case....
 
 하....
+Lyun: Sigh...
 
 이번 일도 잘 해결돼야 할 텐데
+Lyun: I hope this will be resolved well soon
 
 실수하면 안 된다는 압반감에
+Lyun: I've been feeling pressured not to make a mistake
 
 요새 신경을 많이 썼더니 머리가 아파
+Lyun: I've been paying a lot of attention to it lately, but my head hurts
 
 어, 누나 괜찮아요?
+Noghwan: Uh, nonna are you okay?
 
 안 괜찮아
+Lyun: I'm not okay
 
 오늘은 일찍 들어가서 쉬고 내일 계속할까요?
+Noghwan: Should we go home early today, rest, and continue tomorrow?
 
 그래, 오늘은 쉬고 내일 보자
+Lyun: Alright, Let's take a rest today and I'll see you tomorrow
 
 네~
+Noghwan: Okay~
 
-내일은
+{내일은}
+Lyun: Tomorrow
 
-작은 단서라도 찾아야 할 텐데...
+{작은 단서라도 찾아야 할 텐데...}
+Lyun: I hope we can find at least a small clue...
 
 --profile--
 이름: 한울
@@ -132,3 +185,10 @@ Info: Hanul
 온화하고 화를 내는 일이 거의 없음 
 오랜 세월동안 사슴 수장직을 맡아옴
 -----------
+Name: Hanul
+Gender: Male
+Position: Cheonjihae Ten Symbols of Longevity Deer Representative
+Age: Around 8000
+Remarks:
+Gentle and rarely angry
+Has been the deer representative for a long time
