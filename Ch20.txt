@@ -20,10 +20,10 @@ Goblin: What should I do?
 Goblin: What should I do?
 
 죽이자
-Goblin: Let's kill her*
+Goblin: Let's kill
 
 죽이자
-Goblin: Let's kill her
+Goblin: Let's kill
 
 산을 죽이자
 Goblin: Let's kill the mountain
@@ -145,7 +145,7 @@ Noghwan: Ah... it's so hot I'm going to die
 -신선(백림대선)
 ---
 Noghwan
--Taoist master (Baekrimdaeseon)****
+-Divine being (Baekrimdaeseon)
 
 무슨 일 있었어? 웬 예복 차림?
 Lyun: Did something happen? Why are you dressed up?
