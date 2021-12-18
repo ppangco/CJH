@@ -11,10 +11,10 @@ Noghwan: The mountain is hidden
 Hajin: She means that it's impossible to enter the mountain
 
 왜 그렇게 된 거예요?
-Lyun: What happened?
+Lyun: Why did this happen?
 
 산의 일족이 자기 산을 숨겼으 니까
-Hajin: Because the mountain clan hid their mountain
+Hajin: Because someone in the mountain clan hid their mountain
 
 어느 산이 가려졌어?
 Hanuel: Which mountain is hidden?
@@ -26,13 +26,13 @@ Noghwan: ...Well...
 Noghwan: It's the mountain of Baekgoji, the Mountain representative of the 10 Symbols of Longevity
 
 그런데 산이 가려지는 게 큰 문제가 되는 거야?
-Lyun: Is hidding the mountain a big problem?
+Lyun: Is hiding the mountain a big problem?
 
 큰 문제죠
 Noghwan: It's a big problem
 
 산속과 산 밖의 교류가 불가능하니,
-Noghwan: Since it's impossible to communicate in and out of the mountains,
+Noghwan: Since it's impossible to communicate in and out of the mountain,
 
 이 상황이 길게 이어진다면 산이 고립되어 무너질 거예요
 Noghwan: If this situation continues for a long time, the mountain will be isolated and collapse
@@ -44,7 +44,7 @@ Lyun: But the fact that the mountain representative hid her mountain
 Lyun: Isn't it because there's a reason?
 
 수장이라는 자가 생각 없이 행동할 리는 없잖아
-Lyun: A representative can't act without thinking.
+Lyun: A representative wouldn't act without thinking
 
 아, 그게요... 꼭 그렇지만도 않은 게...
 Noghwan: Ah, that's... it's not always like that...
@@ -56,19 +56,19 @@ Noghwan: It seems that Baekgoji, the mountain representative, is still very youn
 Noghwan: I haven't even actually met her...
 
 백고지님이 산의 수장 자리에 오르신 것도 일족 어르신들을 졸라서 그렇게 되였다는 이야기도 있고요
-Noghwan: There is a story that the reason Baekgoji ascended to the position of mountain representative was because she begged the elders of her clan to do so
+Noghwan: but there's a story that the reason Baekgoji ascended to the position of mountain representative was because she begged the elders of her clan to do so
 
-산의 일족돌은 편균 연령이 굉장히 높아요 모두 어르신들이죠
-Noghwan: The average age of the mountain clan's people is very high, all of them are senior citizens
+산의 일족들은 평균 연령이 굉장히 높아요 모두 어르신들이죠
+Noghwan: The mountain clan's average age is very high, all of them are elderly
 
 그런 산의 일족 사이에서 백고지님은 귀여움을 한 몸에 받으셨으니,
-Noghwan: Among the mountain clan, Baekgoji was loved by many,
+Noghwan: It's said that among the mountain clan, Baekgoji was loved by many,
 
 산의 수장이 되고 싶다는 백고지님의 부탁쯤이야 쉽게 들어주셨을 거라는 이야기가 되네요
-Noghwan: It's said that Baekgoji’s request to become the mountain representative would have been easily granted
+Noghwan: so Baekgoji’s request to become the mountain representative was easily granted
 
 아 그러니까 제멋대로인 산의 수장이 산을 숨겨서
-Hanuel: Ah so that's why the mountain representative hid the mountain
+Hanuel: Ah so that's why the spoiled mountain representative hid the mountain
 
 그곳에 갇힌 자들이 곤란하다 이거지
 Hanuel: Those who are trapped there are in trouble
@@ -77,16 +77,16 @@ Hanuel: Those who are trapped there are in trouble
 Noghwan: To sum it up, that's right
 
 게다가 다른 산이면 몰라도 백고지님의 산이니 그 산에 사는 신선의 도움도 기대하기 힘들고....
-Noghwan: In addition, it may be a different mountain, but it is difficult to expect the help of the divine beings living in the mountain because it is a mountain of Baekgoji**
+Noghwan: In addition, it would be no problem if it were another mountain, but because it's Baekgoji's mountain, it is difficult to expect the help of the masters living in the mountain
 
 대대로 산의 일족과 신선은 함께 산을 꾸려왔어요
 Noghwan: From generation to generation, the mountain clan and the devine beings have maintained a mountain together
 
 하지만 산의 수장은 예외예요 혼자 산을 꾸려가야 하죠
-Noghwan: But the mountain representative is an exception. You have to manage a mountain by yourself
+Noghwan: But the mountain representative is an exception. You have to maintain the mountain by yourself
 
 원래 산은요,
-Noghwan: The mountain is originally,
+Noghwan: For mountains originally,
 
 하나의 산에 신선과 산의 일족 이렇게 둘이 관리를 하는 게 보편적이에요
 Noghwan: It's common for two people to take care of the divine beings and their families in one mountain
@@ -95,16 +95,16 @@ Noghwan: It's common for two people to take care of the divine beings and their 
 Noghwan: Of course, there are quite a few cases where many divine beings live on a mountain
 
 그 반대의 경우는 없어요
-Noghwan: There's no opposite case
+Noghwan: though there's no opposite case
 
 아무튼, 산의 일족은 산 그 자체
-Noghwan: Anyway, the mountain's clan is the mountain itself
+Noghwan: Anyway, the mountain clan are the mountains themselves
 
 그리고 신선은 그 산에 살아가기 때문에 공생 관계에 있는데
 Noghwan: And because the divine beings live in that mountain, they have a symbiotic relationship
 
 둘 중 한 명이라도 관리에 소홀하면 산은 무너지죠
-Noghwan: If either one of them  neglects to take care of it, the mountain will collapse
+Noghwan: If either one of them neglects to take care of it, the mountain will collapse
 
 산의 수장은 신선 없이 혼자서 산을 꾸려나가야 하니 2배는 힘들어요
 Noghwan: The mountain representative has it twice as difficult because they have to build a mountain by themself without any divine being
@@ -121,11 +121,11 @@ Noghwan: Even if you are young, you must have the minimum qualifications as the 
 혹시 수장이 산을 숨긴 이유라는 게....
 Hanuel: Maybe that's why the representative hid the mountain...
 
-몇몇 신선들과 산의 일족들은 백고지님이 억지를 부리고 있는 게 아난가 추측하고 있어요
-Noghwan: Some masters and the mountain clan are guessing that Baekgoji is forcing herself
+몇몇 신선들과 산의 일족들은 백고지님이 억지를 부리고 있는 게 아닌가 추측하고 있어요
+Noghwan: Some masters and the mountain clan are guessing that Baekgoji was under pressure
 
 억지라니?
-Lyun: What do you mean forced?
+Lyun: What do you mean under pressure?
 
 원래 백고지 산에도 신선이 있었거든요
 Noghwan: Originally, there was a divine being in Baekgoji's Mountain
@@ -140,12 +140,12 @@ Noghwan: Since Baekgoji became the mountain representative, Baekgoji Mountain's 
 Noghwan: Of course, the divine being settled in another mountain, but...
 
 그 일로 백고지님이 토라져서 산을 숨기지 않았나 하고....
-Noghwan: Because of that I thought Baekgoji was sulking and hid the mountain...
+Noghwan: I think that's why Baekgoji was sulking and hid the mountain...
 
 신선들도 고생이 많구나..!
 Lyun: The divine beings are suffering too..!
 
-왜 동질갈감을 느끼고 있어
+왜 동질감을 느끼고 있어
 Noghwan: Why are you feeling sympathy?
 
 그렇죠?
