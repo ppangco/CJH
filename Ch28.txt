@@ -1,61 +1,95 @@
 산울림 9화
+Echo Ep 9
 
 누군가 있다
+Lyun: 
 
 산의 수장님
+Lyun: 
 
 산의 주민들
+Lyun: 
 
 혹은 밤도깨비
+Lyun: 
 
 산의 수장
+Lyun: 
+
 산의 주민
+Lyun: 
+
 X 밤도깨비
+Lyun: 
 
 잠시만요!!!!!
+Lyun: 
 
 잠시만 기다려주세요!!
+Lyun: 
 
 잠시만요!
+Lyun: 
+
 기다려 주세요!
+Lyun: 
 
 혹시 산의 수장님이십니까?
+Lyun: 
 
 저는 천지해의..!!!
+Lyun: 
 
-산의 수장님 아니면 산의 주민이겠지
+{산의 수장님 아니면 산의 주민이겠지}
+Lyun: 
 
-이 산에 들어와서 겨우 누군가를 만났다 했더니..
+{이 산에 들어와서 겨우 누군가를 만났다 했더니..}
+Lyun: 
 
 이게 무슨.....
+Lyun: 
 
 녹환이는......
+Lyun: 
 
 숨겨놓은 산에 멋대로 들어오니까 그렇게 되는 거야
+Baekgoji: 
 
 ---
 백고지
 -천지해
 -십장생 산의 수장
 ---
+Info:Baekgoji
+-Cheonjihae
+-The Ten Symbols of Longevity Mountain Representative
 
 나는 산의 수장이자 이 산의 주인
+Baekgoji: 
 
 아.... 그렇다면....
+Lyun: 
 
 수장님!!!!!!
+Lyun: Representative!!!!!!
 
 이게 뭐야
+Lyun: 
 
 내 생각 이상으로
+Lyun: 
 
 위험하다
+Lyun: 
 
 잠깐
+Lyun: 
 
 아직은..
+Lyun: 
 
 아직은 아닌...
+Lyun: 
 
 --profile--
 이름: 백고지
@@ -65,3 +99,8 @@ X 밤도깨비
 특이사항:
 어린 나이에 수장이 되어 모르는 것도 많고 스스로 능력 부족이라는 사실에 열등감을 느낌
 -----------
+Name: Baekgoji
+Gender: Female
+Position: Cheonjihae Ten Symbols of Longevity Mountain Representative
+Age: About 100
+Remarks:

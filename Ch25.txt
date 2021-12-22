@@ -134,20 +134,28 @@ Lyun:
 Lyun: 
 
 어차피 지금의 천지해는 하는 일도 없죠
+Mayoo: 
 
 이름만 남은 조직
+Mayoo: 
 
 꼭 그렇지만은 않아
+Hwangdo: 
 
 스스로 변화할지 누군가 변화시킬지 알 수 없는 거야
+Hwangdo: 
 
 스승님 말씀은 신뢰가 안 가요
+Mayoo:
 
 이눔 자식!
+Hwangdo: 
 
 그렇게 쉽게 바뀌는 거였다면
+Mayoo: 
 
 포기하는 사람도 없었을 거예요
+Mayoo: 
 
 --profile--
 이름: 마유
@@ -158,3 +166,8 @@ Lyun:
 늘 향초를 피우기 때문에 몸에 향이 베어있음
 향의 종류는 항상 바뀌며 향, 차, 약재 등을 사용하는 의원
 -----------
+Name: Mayoo
+Gender: Male
+Position: Cheonjihae Zodiac Horse Representative
+Age: About 3000
+Remarks:
