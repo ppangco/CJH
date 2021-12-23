@@ -19,32 +19,32 @@ Elder Munhwon: Huh
 Elder Munhwon: I won't tell until all of Cheonjihae gathers
 
 여기,
-Mayoo: Here,
+Mayu: Here,
 
 초대 상제님의 이념에 감명받으신 듯한 분이 또 한 분 계시네
-Mayoo: there is another person who seems to be impressed by the ideology of the first Sangje
+Mayu: there is another person who seems to be impressed by the ideology of the first Sangje
 
 이보게 자네는 어딜 가는 겐가!
 Elder Munhwon: Hey where are you going!
 
 집에서 약재를 손질하다 나왔거든요
-Mayoo: I came out while preparing medicinal herbs
+Mayu: I came out while preparing medicinal herbs
 
 천지해가 다 모이는 걸 기다리려면 하루 이틀은커녕 몇백 년 있어도 부족할 테고,
-Mayoo: Waiting for all of Cheonjihae to gather will take more than a few hundred years rather than a day or two
+Mayu: Waiting for all of Cheonjihae to gather will take more than a few hundred years rather than a day or two
 
 시간을 너무 지체하면 약재를 못 쓰게 될 테니
-Mayoo: and if this takes too long the herbs won't be usable
+Mayu: and if this takes too long the herbs won't be usable
 
 전 그만 가보도록 하지요
-Mayoo: so I'll be leaving
+Mayu: so I'll be leaving
 
 ---
 마유
 -천지해
 -십이지신 말의 수장
 ---
-Info: Mayoo
+Info: Mayu
 -Cheonjihae
 -The Zodiac Horse Representative
 

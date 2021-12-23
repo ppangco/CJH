@@ -132,14 +132,14 @@ Hajin: ...young girl. Swayed by personal feelings and visibly overflowing with a
 Hajin: as expected, it's still too early for her to become the leader of Cheonjihae
 
 용의 수장님이 이곳엔 웬일이시죠
-Mayoo: What is the Dragon representative doing here
+Mayu: What is the Dragon representative doing here
 
 ---
 마유
 -천지해
 -십이지신 말의 수장
 ---
-Info: Mayoo
+Info: Mayu
 -Cheonjihae
 -The Zodiac Horse Representative
 
@@ -147,16 +147,16 @@ Info: Mayoo
 Hajin: Horse representative, what's going on?
 
 저는 야철신님께 부탁받은 탕약을 가지고 왔지요.
-Mayoo: I brought the medicine requested by the night iron god.
+Mayu: I brought the medicine requested by the night iron god.
 
 전의 그 방화사건은 잘 해결되었다고 들었습니다만
-Mayoo: I heard the previous arson incident was resolved well
+Mayu: I heard the previous arson incident was resolved well
 
 수습 황룡님은 여전히 바빠 보이는군요
-Mayoo: but the trainee yellow dragon still looks busy
+Mayu: but the trainee yellow dragon still looks busy
 
 새로운 임무라도 내려왔습니까?
-Mayoo: Have you come down here on a new mission?
+Mayu: Have you come down here on a new mission?
 
 아뇨, 임무도 일도 아닙니다
 Hajin: No, it's not a mission or job
@@ -171,7 +171,7 @@ Hajin: the trainee yellow dragon is now
 Hajin: walking the same path as you did in your younger days
 
 그렇군요
-Mayoo: I see
+Mayu: I see
 
 --profile--
 이름: 아성
