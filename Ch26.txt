@@ -2,31 +2,31 @@
 Echo Ep 7
 
 저와 함께 천지해를 바꿔보지 않으시겠습니까?
-Lyun: 
+Lyun: Would you like to change Cheonjihae with me?
 
 그것에 대한 확답은 드리기 어렵네요
-Mayu: 
+Mayu: I can't give you a definite answer to that
 
 단지 제가 해 드릴 수 있는 건
-Mayu: 
+Mayu: All I can do for you is
 
 연쇄 살해범에 대한 정보 제공 정도예요
-Mayu: 
+Mayu: (It's about) provid(ing) information on the serial killer
 
 연쇄 살해범은 밤 도깨비일거예요
-Mayu: 
+Mayu: The serial killer must be a night goblin
 
 어떻게 아셨습니까?
-Lyun: 
+Lyun: How do you know?
 
 거적으로 가렸지만 머리 위쪽 부분이 돌출되어 있죠
-Mayu: 
+Mayu: It's covered with a hood, but the top of the head is protruding
 
 그렇다는 것은 거적 아래에 무언가 있다는 것
-Mayu: 
+Mayu: That means there is something under the hood
 
-그것이 뿔이라는 확신은 없어요 괴일 수도 있고, 뿔이라 해도 밤도깨비가 아닐 수도 있죠
-Mayu: 
+그것이 뿔이라는 확신은 없어요 귀일 수도 있고, 뿔이라 해도 밤도깨비가 아닐 수도 있죠
+Mayu: I'm not sure it's horns. It could be ears or it could be horns, so it might not be a night goblin
 
 결정적인 것은
 Mayu: 

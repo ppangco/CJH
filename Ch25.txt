@@ -98,64 +98,64 @@ Mayu: There was also the war
 Mayu: It's gotten a lot better now
 
 시화님은 중앙황제신장의 역량을 타고나신 분이죠
-Mayu: Sihwa is born with the power of the Central Yellow Guardian
+Mayu: Sihwa was born with the power of the Central Yellow Guardian
 
 시대를 잘 못 타고 나셨을 뿐
-Mayu: You're just born with the wrong generation
+Mayu: You're just born with the wrong generation(??)
 
 당신에게도 해당되겠네요
 Mayu: I guess it applies to you, too
 
 아직 어린 데다가 수습인 당신을 처음부터 모두가 따르게 하긴 어려울 거예요
-Mayu: 
+Mayu: It will be hard to make everyone follow you from the beginning, who is still young and who is trying to fix it.
 
 그 시화님조차도 천지해 자체는 포기하셨으니
-Mayu: 
+Mayu: Even Sihwas gave up the world itself.
 
 수습 황룡님에겐 두 가지 길이 있겠게요
-Mayu: 
+Mayu: There must be two ways for the trainee yellow dragon
 
 첫째는 시화님만큼 능력이 좋아 혼자 천지해 일을 처리하는 것,
-Mayu: 
+Mayu: irst is that he is as capable as Si-hwa, and that he does things by himself
 
 둘째는 역대 황룡들처럼 적당히 눈치 보다 다음 세대에게 물려루는 것
-Mayu: 
+Mayu: Second, like all the yellow dragons in the past, you should be careful and pass it on to the next generation
 
 세번째로......
-Lyun: 
+Lyun: And third......
 
 초대 상제님이 그러하셨듯 천지해의 모든구성원을 단결 시켜 최초의 이념을 바로잡는다는 선택지도 추가해 주시지요
-Lyun: 
+Lyun: As the first high priest said, he added the option of correcting the original ideology by uniting all members of the world
 
 말의 수장님
-Lyun: 
+Lyun: Horse representative
 
 저와 함께 천지해를 바꿔보지 않으시겠습니까?
-Lyun: 
+Lyun: Would you like to change the world with me?
 
 어차피 지금의 천지해는 하는 일도 없죠
-Mayu: 
+Mayu: There's nothing that I'm doing right now
 
 이름만 남은 조직
-Mayu: 
+Mayu: organization with only one name left
 
 꼭 그렇지만은 않아
-Hwangdo: 
+Hwangdo: Not necessarily
 
 스스로 변화할지 누군가 변화시킬지 알 수 없는 거야
-Hwangdo: 
+Hwangdo: I don't know if I'll change it myself or if someone will change it
 
 스승님 말씀은 신뢰가 안 가요
-Mayu: 
+Mayu: I can't trust what the teacher said
 
 이눔 자식!
-Hwangdo: 
+Hwangdo: You punk!
 
 그렇게 쉽게 바뀌는 거였다면
-Mayu: 
+Mayu: If it was that easy to change
 
 포기하는 사람도 없었을 거예요
-Mayu: 
+Mayu: I don't think anyone would have given up
 
 --profile--
 이름: 마유
@@ -171,3 +171,5 @@ Gender: Male
 Position: Cheonjihae Zodiac Horse Representative
 Age: About 3000
 Remarks:
+Since he always lights scented candles, there's a scent on his body
+clinic that uses incense, tea, medicinal ingredients, etc. as the type of incense is constantly changing
