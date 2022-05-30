@@ -87,16 +87,16 @@ Lyun: I can do it
 Haneul: It's good to work hard, but be considerate of your body
 
 따지고 보면 신입이잖아
-Haneul: After all, you're a newcomer
+Haneul: After all, you're a new
 
 은연중에 소문이 돌아
-Haneul: There's a rumor going around secretly
+Haneul: There's a rumor going around
 
 푸른 여우 탈옥 사건의 주모자가 수습 황룡이 아닌가 하는...
 Haneul: They suspect the culprit of the blue fox's escape is the yellow dragon
 
 첫 무대치고는 과했지 불법이었고
-Haneul: It was over the top for a debut, it was illegal
+Haneul: It was a big stunt to pull off for a newbie, it was also illegal
 
 확실한 증거가 없어서 그렇지
 Haneul: and there's no clear evidence, but
@@ -108,13 +108,13 @@ Haneul: The jerks higher-up will be watching you now
 Lyun: I could expect as much
 
 그리고 그거 알아?
-Lyun: And you know that feeling?
+Lyun: And you know what?
 
 내 뒤통수 친 놈이 저놈인 게 확실한데
-Lyun: That feeling of bursting with anger when you can't do anything
+Lyun: Even though I'm sure he's the one who stabbed me in the back
 
 아무것도 할 수 없을 때의 분통 터지는 그 기분
-Lyun: Even though I'm sure the one who stabbed me in the back is him
+Lyun: I can't do anything, I feel like I'll burst-
 
 정신 차려 이 화상아
 Haneul: Hold on, you dummy
@@ -151,7 +151,7 @@ Noghwan
 Lyun: Did something happen? Why are you dressed up?
 
 `평소에는 잘 입지도 않더니`
-Lyun: You don't usually wear that.
+Lyun: You don't usually wear that
 
 신선들도 가끔은 점잔 빼고 모이거든요 아주 가끔....
 Noghwan: Sometimes, the divine beings gather pretentiously. Very often...
@@ -160,4 +160,4 @@ Noghwan: Sometimes, the divine beings gather pretentiously. Very often...
 Noghwan: Besides....
 
 이번엔 좀 머리 아픈 일도 있고요
-Noghwan: I have a bit of a headache this time
+Noghwan: I have a headache inducing job this time
