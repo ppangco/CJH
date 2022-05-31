@@ -8,7 +8,7 @@ Lyun: I was going to help you even if there was no watermelon!
 Lyun: Also the divine beings
 
 지켜야 할 천계의 백성이니.....
-Lyun: are the people of heaven I need to protect.....
+Lyun: are the people of the celestial world I need to protect.....
 
 그럼
 Hajin: Then
@@ -35,7 +35,7 @@ Lyun: Of course you have to.....
 Lyun: It's a divine beings duty
 
 `아깐 지켜야 할 백성들의 일이랬으면서!`
-Noghwan: You said it was your duty to protect the people!
+Noghwan: You said it was *your* duty to protect the people!
 
 게다가
 Noghwan: Besides
@@ -95,10 +95,10 @@ Noghwan: As expected, it'd be faster to experience it firsthand
 Lyun: Uh......
 
 보셨죠?
-Noghwan: Did you see that?
+Noghwan: You see?
 
 이게 '산이 가려졌다.' 또는 '산을 숨겼다.'라는 거예요
-Noghwan: This is 'The mountain is hidden.' or 'She hid the mountain.'
+Noghwan: That's what I mean by 'The mountain is hidden.' or 'She hid the mountain.'
 
 그 자리에 존재하지만 존재하지 않는....
 Noghwan: It exists, but it doesn't exist...
@@ -119,7 +119,7 @@ Lyun: I'm not good in this field
 Lyun: I'm going to ask for help
 
 누구한테요?
-Noghwan: To whom?
+Noghwan: From whom?
 
 딱 알맞은 분이 계셔
 Lyun: There's a perfect person
