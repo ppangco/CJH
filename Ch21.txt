@@ -5,7 +5,7 @@ Echo Ep 2
 Lyun: What do you mean a headache?
 
 산이 가려졌어요
-Noghwan: The mountain is hidden
+Noghwan: A mountain is hidden
 
 산으로 출입이 불가능한 상황이 됐다는 이야기지
 Hajin: She means that it's impossible to enter the mountain
@@ -26,7 +26,7 @@ Noghwan: ...Well...
 Noghwan: It's the mountain of Baekgoji, the Mountain representative of the 10 Symbols of Longevity
 
 그런데 산이 가려지는 게 큰 문제가 되는 거야?
-Lyun: Is hiding the mountain a big problem?
+Lyun: Is hiding a mountain a big problem?
 
 큰 문제죠
 Noghwan: It's a big problem
@@ -122,7 +122,7 @@ Noghwan: Even if you are young, you must have the minimum qualifications as the 
 Hanuel: Maybe that's why the representative hid the mountain...
 
 몇몇 신선들과 산의 일족들은 백고지님이 억지를 부리고 있는 게 아닌가 추측하고 있어요
-Noghwan: Some masters and the mountain clan are guessing that Baekgoji was under pressure
+Noghwan: Some divine beings and the mountain clan are guessing that Baekgoji was under pressure
 
 억지라니?
 Lyun: What do you mean under pressure?
@@ -131,7 +131,7 @@ Lyun: What do you mean under pressure?
 Noghwan: Originally, there was a divine being in Baekgoji's Mountain
 
 백고지님과 백고지산 신선이 공생하다가
-Noghwan: When Baekgoji and Baekgoji mountain's divine being were coexisting
+Noghwan: When Baekgoji and Baekgoji Mountain's divine being were coexisting
 
 백고지님이 산의 수장이 되셨으니 백고지산 신선은 산을 떠날 수 밖에요
 Noghwan: Since Baekgoji became the mountain representative, Baekgoji Mountain's divine being had no choice but to leave the mountain
@@ -146,7 +146,7 @@ Noghwan: I think that's why Baekgoji was sulking and hid the mountain...
 Lyun: The divine beings are suffering too..!
 
 왜 동질감을 느끼고 있어
-Noghwan: Why are you feeling sympathy?
+Noghwan: You feel the same way?
 
 그렇죠?
 Noghwan: Right?
@@ -164,7 +164,7 @@ Noghwan: You're still in training, but I want to ask the reliable central yellow
 Noghwan: Did you enjoy the watermelon?
 
 그거 제가 사서 온 건데...
-Noghwan: I bought it and brought it...
+Noghwan: I brought it...
 
 --profile--
 이름: 이녹환
