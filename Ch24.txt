@@ -92,13 +92,13 @@ Hwangdo: It's just that he has a weird side to him
 Lyun: Are you here?
 
 천성이 나쁜 것은 아니니
-Hwangdo: It's not that he's bad/rude(?) by nature
+Hwangdo: It's not that he's rude by nature
 
 계십니다
 Mayu: I'm here
 
 `계십니다?`
-Lyun: I'm here?/You're here?
+Lyun: I'm here?
 
 괜찮을게다
 Hwangdo: It'll be fine
@@ -146,7 +146,7 @@ Misunderstanding
 Lyun: Uh, rat representative what happened?
 
 아, 이러....
-Lyun: Ah, this....
+Shirang: Ah, this....
 
 하진 누님한테 밟혔어
 Shirang: Hajin noona stepped on me

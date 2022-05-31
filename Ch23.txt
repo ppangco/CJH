@@ -21,7 +21,7 @@ Hanul: She comes to play sometimes
 Hanul: She's sleeping, so let's talk quietly
 
 아, 예 그렇다면 보고 드리겠습니다
-Unknown Deer: Ah, yes. I'll report it to you
+Unknown Deer: Ah, yes. I'll give my report to you
 
 연쇄 살해범에 대한 건입니다
 Unknown Deer: It's about a murderer
@@ -105,7 +105,7 @@ Noghwan: As for the deer representative, he is gentle natured and his clan as we
 Noghwan: I know that he doesn't do anything that would harms others
 
 이런 놈들은 도대체 무슨 생각을 하는 걸까
-Lyun: What the hell is this guy thinking?
+Lyun: What the hell is this person thinking?
 
 글쎄요
 Noghwan: Well
@@ -114,13 +114,13 @@ Noghwan: Well
 Noghwan: I don't understand the act of harming someone, and I don't think it's worth understanding.....
 
 그보다, 산의 수장남 일은 어떻게 되어가는 거예요?
-Noghwan: One top of that, what's going on with the mountain representative?
+Noghwan: On top of that, what's going on with the mountain representative?
 
 그건 걱정 마
 Lyun: Don't worry about that
 
 산이 가려졌다는 이야기 알고 계십니까?
-Lyun: Do you know the rumor that the mountain is hidden?
+Lyun: Do you know the rumor that a mountain is hidden?
 
 시랑님께 부탁드리고 싶은 일이 있습니다
 Lyun: There is something I want to ask you Shirang
@@ -129,10 +129,10 @@ Lyun: There is something I want to ask you Shirang
 Lyun: Even though she is the mountain representative, she is still young..
 
 산을 가렸지만 조금은 틈이 있을 터...
-Lyun: I hid the mountain, but there must be a little gap...
+Lyun: She hid the mountain, but there must be a small gap...
 
 아주 작은 틈이라도 괜찮습니다
-Lyun: Even if it's a small gap, it's fine
+Lyun: Even if it's only a small gap, it's fine
 
 찾아 주실 수 있으십니까?
 Lyun: Can you find it for us?
